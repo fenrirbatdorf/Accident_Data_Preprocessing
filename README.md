@@ -3,9 +3,9 @@ Steps taken to preprocess car accident data for research.
 
 FILES:
 
-Fenrir_Feature_Engineer: The file needed to preprocess the full traffic dataset down to only MD, and then into the feature engineer version of the dataset.
+Fenrir_Feature_Engineer: The file needed to preprocess the full traffic dataset down to only MD, and then to create the feature engineer version of the dataset.
 
-Dr_Olsen_Control_Preprocess: The file written by Dr. Olsen to take the MD traffic subset, and process the data for machine learning without feature engineering. This serves as the control version of the datasets for the experiment.
+Dr_Olsen_Control_Preprocess: The file written by Dr. Olsen to take the MD traffic subset, and preprocess the data for machine learning without feature engineering. This serves as the control version of the datasets for the experiment.
 
 Files beginning with OLD: Previous drafts of programs to use that are not in use for the current version of the experiment.
 
