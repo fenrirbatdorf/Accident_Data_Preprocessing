@@ -1,0 +1,406 @@
+Class,Distance(mi),Street,Temperature(F),Humidity(%),Pressure(in),Visibility(mi),Wind_Direction,Weather_Condition,Amenity,Crossing,Junction,Railway,Station,Stop,Traffic_Calming,Traffic_Signal,Sunrise_Sunset
+1,0.01,Highway,46.0,50.0,30.12,10.0,NW,Mostly Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.01,local,50.0,63.0,29.72,10.0,SE,Clear,False,False,False,False,False,False,False,False,Day
+1,0.0,local,53.6,44.0,30.24,10.0,Calm,Clear,False,False,False,False,False,False,False,False,Day
+1,0.0,local,64.9,48.0,30.4,10.0,SE,Clear,False,False,False,False,False,False,False,True,Day
+1,0.0,local,55.4,100.0,30.12,0.5,Calm,Fog,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,72.0,87.0,30.13,10.0,NE,Clear,False,False,False,False,False,False,False,False,Day
+1,0.0,local,84.2,62.0,30.07,10.0,S,Clear,False,False,False,False,False,False,False,True,Night
+1,0.0,local,59.0,100.0,30.29,10.0,Calm,Clear,False,False,False,False,True,False,False,False,Night
+1,0.0,local,69.8,73.0,30.36,10.0,SW,Clear,False,False,False,False,False,False,False,False,Day
+1,0.0,local,71.6,100.0,30.07,2.5,Calm,Scattered Clouds,False,False,False,False,False,False,False,False,Night
+1,0.0,large_local,84.0,72.0,30.05,10.0,W,Scattered Clouds,False,False,False,False,False,False,False,False,Day
+1,0.0,local,87.8,58.0,30.11,7.0,Calm,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,78.8,74.0,29.92,10.0,SW,Clear,False,False,False,False,False,False,False,False,Day
+1,0.0,local,73.0,84.0,29.82,10.0,SW,Scattered Clouds,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,84.9,74.0,29.97,10.0,SW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,41.7,37.0,29.97,10.0,NW,Scattered Clouds,False,False,False,False,False,False,False,False,Day
+1,0.01,large_local,69.1,38.0,29.88,10.0,W,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,44.6,53.0,30.28,10.0,Calm,Clear,False,False,False,False,False,False,False,False,Day
+1,0.01,local,39.0,85.0,30.44,10.0,SW,Overcast,False,False,False,False,False,False,False,True,Day
+1,0.01,local,60.8,94.0,29.81,7.0,N,Overcast,False,False,False,False,False,False,False,True,Day
+1,0.0,local,75.0,100.0,30.12,5.0,E,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,79.0,57.0,29.62,10.0,NE,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,75.0,57.0,29.89,10.0,NE,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,68.0,68.0,29.91,10.0,NE,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,local,68.0,59.0,30.02,10.0,Variable,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,large_local,71.0,61.0,30.16,10.0,NE,Fair,False,False,False,False,True,False,False,True,Day
+1,0.0,large_local,68.0,67.0,30.16,10.0,Calm,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,local,78.0,57.0,29.88,10.0,NW,Partly Cloudy,False,True,False,False,False,False,False,False,Day
+1,0.0,local,78.0,81.0,29.93,10.0,SW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,76.0,85.0,29.96,9.0,SW,Fair,False,True,False,False,False,False,False,False,Day
+1,0.0,large_local,72.0,94.0,29.67,10.0,SW,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,large_local,67.0,75.0,29.66,10.0,Calm,Fair,False,False,False,False,False,False,False,True,Night
+1,0.0,local,71.0,77.0,29.52,10.0,NW,Fair,False,False,False,False,False,False,False,False,Night
+1,0.0,large_local,72.0,88.0,29.86,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,68.0,88.0,29.56,7.0,SW,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,Highway,72.0,100.0,29.93,10.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,local,74.0,91.0,29.75,5.0,NW,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,Interstate,74.0,66.0,29.87,10.0,Variable,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,72.0,78.0,30.01,10.0,N,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,local,59.0,100.0,29.89,7.0,Calm,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,68.0,78.0,29.88,10.0,Calm,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,local,70.0,100.0,29.83,7.0,NW,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,75.0,71.0,29.65,10.0,NW,Partly Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.8399999737739563,large_local,76.0,85.0,29.8,10.0,NW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,72.0,100.0,29.66,7.0,SW,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,83.0,72.0,29.99,10.0,SW,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,local,76.0,82.0,29.68,10.0,SW,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,local,73.0,100.0,29.65,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Night
+1,0.0,local,74.0,85.0,29.66,10.0,SW,Fair,False,False,False,False,False,False,False,False,Night
+1,0.0,local,82.0,76.0,30.04,10.0,SW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,75.0,94.0,29.76,7.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,72.0,100.0,29.94,7.0,Calm,Fair,False,False,True,False,False,False,False,False,Night
+1,0.0,local,72.0,100.0,29.94,7.0,S,Fair,False,False,False,False,False,False,False,True,Night
+1,0.0,local,72.0,100.0,29.94,7.0,S,Partly Cloudy,False,False,False,False,True,False,False,False,Night
+1,0.0,local,72.0,100.0,30.09,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Night
+1,0.0,large_local,73.0,93.0,29.96,10.0,Calm,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,72.0,100.0,29.82,7.0,Calm,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,84.0,67.0,29.9,10.0,Variable,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,77.0,78.0,30.0,7.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,72.0,83.0,29.69,7.0,unknown,Partly Cloudy,False,True,False,False,False,False,False,True,Day
+1,2.0699999332427983,local,70.0,94.0,29.17,5.0,Calm,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,77.0,82.0,29.94,10.0,SW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,70.0,99.0,29.62,10.0,Calm,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,local,82.0,74.0,29.89,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,69.0,97.0,29.91,7.0,Calm,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,77.0,79.0,29.85,10.0,Calm,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,95.0,34.0,29.41,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,80.0,64.0,29.57,10.0,NW,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,Highway,76.0,85.0,29.78,10.0,Calm,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,79.0,78.0,29.95,10.0,S,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,local,82.0,93.0,30.07,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,76.0,69.0,29.92,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,81.0,69.0,29.76,10.0,Calm,Partly Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,70.0,98.0,29.56,10.0,SW,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,large_local,68.0,90.0,29.68,10.0,SW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,66.0,93.0,29.83,10.0,SW,Fair,False,False,False,False,False,False,False,False,Night
+1,0.0,Highway,72.0,71.0,30.0,10.0,Calm,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,large_local,75.0,82.0,29.88,10.0,Variable,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,75.0,82.0,29.88,10.0,Variable,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,75.0,89.0,29.84,10.0,N,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,78.0,77.0,29.89,10.0,E,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,73.0,100.0,29.9,10.0,NE,Cloudy,True,False,False,False,False,False,False,False,Day
+1,0.0,Highway,72.0,94.0,29.66,10.0,N,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,74.0,93.0,29.85,10.0,N,Cloudy,True,False,False,False,False,False,False,True,Day
+1,0.0,Interstate,70.0,84.0,29.94,10.0,Calm,Mostly Cloudy,False,False,True,False,False,False,False,False,Night
+1,0.0,local,79.0,77.0,29.17,10.0,SW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,78.0,76.0,29.18,9.0,SW,Drizzle,False,False,False,False,False,False,False,False,Day
+1,4.789999961853027,Beltway,74.0,73.0,30.1,10.0,S,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,81.0,74.0,30.1,10.0,S,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,63.0,100.0,29.96,4.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,75.0,76.0,29.8,10.0,SW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,63.0,100.0,29.91,10.0,Calm,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,Highway,67.0,100.0,29.95,10.0,Calm,Fair,False,True,False,False,False,False,False,False,Day
+1,0.0,large_local,69.0,81.0,30.03,10.0,Calm,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,local,70.0,83.0,29.22,10.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,63.0,100.0,30.04,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,nan,72.0,53.0,29.87,7.0,SW,Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,large_local,69.0,63.0,30.02,10.0,W,Mostly Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,Highway,69.0,63.0,30.02,10.0,W,Mostly Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,Beltway,67.0,93.0,30.13,10.0,Calm,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,57.0,69.0,30.04,10.0,W,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,1.1399999856948853,Highway,72.0,73.0,29.77,2.0,N,Rain,False,False,False,False,False,False,False,False,Day
+1,0.0,local,66.0,100.0,29.8,7.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,70.0,100.0,29.56,10.0,SW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,75.0,84.0,29.66,10.0,Variable,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,70.0,100.0,29.55,5.0,SW,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,Highway,71.0,93.0,29.84,10.0,W,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,67.0,99.0,29.6,10.0,SW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,70.0,78.0,29.68,10.0,SW,Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,large_local,73.0,71.0,29.86,10.0,S,Mostly Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,local,67.0,73.0,30.05,10.0,N,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,66.0,63.0,29.9,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,60.0,86.0,30.01,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,57.0,89.0,29.73,10.0,Calm,Fair,False,False,False,False,False,True,False,False,Day
+1,0.0,Interstate,87.0,52.0,29.77,4.0,SW,Haze,False,False,False,False,False,False,False,False,Day
+1,0.0,local,66.0,94.0,29.64,7.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,82.0,62.0,29.89,10.0,W,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,68.0,93.0,29.88,8.0,Calm,Fog,False,True,False,False,False,False,False,True,Day
+1,0.0,Highway,71.0,93.0,29.75,10.0,SW,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,60.0,80.0,30.12,10.0,E,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,54.0,94.0,30.26,10.0,Calm,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,Highway,55.0,100.0,30.18,10.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,62.0,78.0,30.34,10.0,NE,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,58.0,94.0,30.18,10.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,61.0,82.0,30.25,3.0,Calm,Drizzle,False,False,False,False,False,False,False,True,Day
+1,0.0,large_local,61.0,83.0,30.22,10.0,NE,Drizzle,False,False,False,False,False,False,False,False,Day
+1,0.0,local,59.0,100.0,30.1,10.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,63.0,63.0,30.24,10.0,NW,Fair,False,False,False,False,True,False,False,False,Day
+1,0.0,Highway,59.0,100.0,29.6,10.0,N,Cloudy,False,False,True,False,False,False,False,False,Night
+1,0.0,local,50.0,85.0,30.01,10.0,Calm,Fair,False,True,False,False,False,False,True,True,Day
+1,0.0,local,66.0,60.0,29.04,10.0,SW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,52.0,100.0,29.74,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,52.0,100.0,29.74,10.0,Calm,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,local,63.0,100.0,30.08,4.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,65.0,90.0,30.04,5.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,65.0,93.0,30.04,5.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,60.0,83.0,30.22,10.0,NE,Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,Booth's Escape,60.0,36.0,30.26,8.0,unknown,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,56.0,44.0,29.94,10.0,NE,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,large_local,56.0,44.0,29.94,10.0,NE,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,local,54.0,100.0,29.92,10.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,local,57.0,96.0,29.8,1.0,Calm,Fog,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,55.0,94.0,29.98,7.0,SE,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,Highway,55.0,100.0,29.63,4.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,54.0,94.0,29.91,10.0,Calm,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,Highway,52.0,82.0,29.75,10.0,NE,Fair,False,False,False,False,False,False,False,False,Night
+1,0.0,local,57.0,89.0,30.13,2.0,E,Fog,False,False,False,False,False,False,False,False,Day
+1,0.0,local,56.0,97.0,30.11,1.0,E,Fog,False,False,False,False,False,False,False,False,Day
+1,0.0,local,58.0,72.0,29.84,10.0,N,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,55.0,25.0,29.91,10.0,Calm,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,local,55.0,25.0,29.91,10.0,Calm,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,large_local,42.0,47.0,30.06,10.0,NW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,49.0,44.0,29.8,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,49.0,48.0,29.94,10.0,W,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,50.0,47.0,30.1,10.0,NW,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,local,56.0,84.0,30.14,7.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,36.0,70.0,30.07,10.0,W,Fair,False,True,False,False,False,False,False,True,Night
+1,0.0,large_local,33.0,80.0,30.37,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,19.0,61.0,30.03,10.0,NE,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,44.0,65.0,30.17,10.0,S,Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,local,74.0,66.0,29.43,10.0,Variable,Mostly Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,local,71.0,74.0,29.91,9.0,SW,Fair,False,False,False,False,False,True,False,False,Day
+1,0.0,Highway,46.0,61.0,30.1,10.0,SW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,69.0,63.0,29.6,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,97.0,50.0,29.09,10.0,SW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,72.0,71.0,29.66,10.0,NW,Mostly Cloudy,False,True,False,False,False,False,False,False,Day
+1,0.0,large_local,74.0,79.0,30.28,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,79.0,78.0,29.49,10.0,Calm,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,33.8,81.0,30.15,10.0,Calm,Overcast,False,False,False,False,False,False,False,False,Night
+1,0.0,Highway,79.0,69.0,29.88,10.0,S,Overcast,False,False,False,False,False,False,False,False,Day
+1,0.0,local,74.0,70.0,29.91,10.0,E,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,74.0,71.0,29.86,10.0,SE,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,local,77.0,62.0,29.59,10.0,SE,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,local,77.0,89.0,29.49,10.0,S,Cloudy,False,True,False,False,False,False,False,False,Day
+1,0.0,Highway,75.0,88.0,29.7,10.0,S,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,Highway,75.0,88.0,29.7,10.0,S,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,Highway,74.0,87.0,29.68,10.0,S,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,Highway,74.0,87.0,29.68,10.0,S,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,local,80.0,71.0,29.35,10.0,S,Partly Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,Highway,68.0,36.0,29.69,10.0,Variable,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,large_local,72.0,24.0,30.13,10.0,N,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,Interstate,73.0,28.0,30.02,10.0,NW,Partly Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,large_local,71.0,25.0,30.15,10.0,NW,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,large_local,72.0,24.0,30.13,10.0,N,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,Beltway,62.0,70.0,29.8,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Night
+1,0.7340000000000001,Interstate,82.0,52.0,29.19,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,80.0,60.0,29.35,10.0,Calm,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,Interstate,59.0,96.0,29.19,3.0,SW,Heavy Rain,False,False,False,False,False,False,False,False,Day
+1,2.189,Interstate,59.0,94.0,29.58,2.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,57.0,96.0,29.12,10.0,S,Cloudy,False,False,False,False,False,True,False,False,Day
+1,0.0,local,57.0,96.0,29.12,10.0,S,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,large_local,58.0,99.0,29.4,10.0,SW,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,54.0,83.0,29.78,10.0,NW,Drizzle,False,False,True,False,False,False,False,False,Day
+1,0.0,local,61.0,63.0,29.46,10.0,NW,Mostly Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,local,61.0,63.0,29.46,10.0,NW,Mostly Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,local,61.0,63.0,29.46,10.0,NW,Mostly Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,63.0,54.0,29.21,10.0,NW,Cloudy,False,True,False,False,True,False,False,True,Day
+1,0.0,local,63.0,52.0,29.64,10.0,NW,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,63.0,52.0,29.64,10.0,NW,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,55.0,38.0,29.93,10.0,Calm,Fair,False,True,False,False,False,False,False,True,Day
+1,0.004,large_local,57.0,37.0,29.83,10.0,Calm,Cloudy,False,True,False,False,False,False,False,False,Day
+1,0.004,large_local,57.0,38.0,29.83,10.0,Calm,Cloudy,False,True,False,False,False,False,False,False,Day
+1,0.004,large_local,57.0,38.0,29.82,10.0,Calm,Cloudy,False,True,False,False,False,False,False,False,Day
+1,0.0,large_local,57.0,38.0,29.82,10.0,Calm,Cloudy,False,True,False,False,False,False,False,False,Day
+1,0.0,large_local,50.0,94.0,29.7,2.0,NW,Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.004,local,51.0,86.0,29.69,10.0,NW,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,large_local,50.0,94.0,29.7,2.0,NW,Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,local,54.0,82.0,29.43,10.0,Calm,Drizzle,False,False,False,False,False,False,False,True,Day
+1,0.0,Beltway,57.0,55.0,29.76,10.0,NW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,2.498,Beltway,55.0,36.0,29.87,10.0,NW,Fair,False,False,True,False,False,False,False,False,Day
+1,2.498,Beltway,55.0,36.0,29.87,10.0,NW,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,local,61.0,29.0,29.59,10.0,NW,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,local,61.0,29.0,29.59,10.0,NW,Fair,False,True,False,False,False,False,False,True,Day
+1,1.226,local,54.0,47.0,29.11,10.0,NW,Cloudy,False,False,False,False,False,True,False,False,Day
+1,1.226,local,54.0,47.0,29.1,10.0,NW,Cloudy,False,False,False,False,False,True,False,False,Day
+1,1.226,local,54.0,47.0,29.11,10.0,NW,Cloudy,False,False,False,False,False,True,False,False,Day
+1,0.0,local,50.0,48.0,29.43,10.0,NW,Cloudy,False,True,False,False,False,False,False,False,Day
+1,0.0,local,52.0,42.0,29.71,10.0,NW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,52.0,42.0,29.71,10.0,NW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,45.0,59.0,29.86,10.0,NW,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,46.0,56.0,29.87,10.0,NW,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,65.0,31.0,29.72,10.0,NW,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,local,68.0,26.0,29.66,10.0,SW,Fair,False,True,False,False,False,False,False,False,Day
+1,0.0,local,67.0,20.0,30.18,10.0,SW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,62.0,62.0,29.7,10.0,SW,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,68.0,53.0,29.9,10.0,SW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,68.0,53.0,29.9,10.0,SW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,69.0,50.0,30.1,10.0,SW,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,3.589,large_local,63.0,94.0,29.73,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.155,large_local,83.0,41.0,29.72,10.0,SW,Fair,False,False,False,False,False,True,False,False,Day
+1,8.236,Interstate,55.0,74.0,30.06,10.0,SE,Mostly Cloudy,False,False,False,False,False,False,False,False,Night
+1,8.236,Interstate,55.0,74.0,30.06,10.0,SE,Mostly Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,large_local,64.0,43.0,29.6,10.0,Variable,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,61.0,48.0,29.76,10.0,Variable,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,Beltway,60.0,56.0,30.01,10.0,E,Fair,False,False,True,False,False,False,False,False,Day
+1,1.379,large_local,60.0,56.0,30.01,10.0,E,Fair,False,True,True,False,False,False,False,True,Day
+1,0.0,Beltway,60.0,56.0,30.01,10.0,E,Fair,False,False,True,False,False,False,False,False,Day
+1,1.379,large_local,60.0,56.0,30.01,10.0,E,Fair,False,True,True,False,False,False,False,True,Day
+1,0.0,large_local,61.0,36.0,29.56,10.0,SE,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,63.0,78.0,30.27,9.0,E,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,63.0,78.0,30.27,9.0,E,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,63.0,78.0,30.27,9.0,E,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,63.0,78.0,30.27,9.0,E,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,Highway,71.0,59.0,30.26,10.0,SE,Mostly Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,Highway,71.0,59.0,30.26,10.0,SE,Mostly Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,Highway,67.0,66.0,29.66,10.0,E,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,64.0,96.0,29.49,2.0,Variable,Fog,False,False,False,False,False,False,False,True,Day
+1,0.0,local,64.0,96.0,29.48,5.0,Calm,Drizzle,False,False,False,False,False,False,False,True,Day
+1,5.7570000000000014,local,65.0,93.0,30.02,1.0,SE,Heavy Rain,False,False,False,False,False,False,False,True,Day
+1,5.7570000000000014,large_local,63.0,99.0,30.05,2.0,NE,Rain,True,True,False,False,False,False,False,True,Day
+1,0.0,local,72.0,100.0,29.72,10.0,S,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,72.0,88.0,29.67,10.0,E,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,72.0,88.0,29.67,10.0,E,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,84.0,66.0,29.68,10.0,S,Drizzle,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,81.0,67.0,29.13,10.0,Variable,Thunder,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,86.0,49.0,29.62,10.0,S,Fair,False,False,False,False,False,False,False,False,Day
+1,1.632,Interstate,80.0,42.0,29.84,10.0,NW,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,83.0,31.0,29.78,10.0,SW,Fair,True,True,False,False,False,False,False,False,Day
+1,0.0,large_local,83.0,31.0,29.78,10.0,SW,Fair,True,True,False,False,False,False,False,False,Day
+1,0.0,local,82.0,42.0,29.53,10.0,SW,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,local,79.0,52.0,29.45,10.0,SE,Mostly Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.613,Beltway,82.0,47.0,29.84,10.0,N,Fair,False,False,False,False,False,False,False,False,Day
+1,0.613,Beltway,82.0,48.0,29.84,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,84.0,43.0,29.83,10.0,NW,Fair,False,False,False,False,False,False,False,True,Day
+1,2.934,Interstate,86.0,48.0,29.72,10.0,NW,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,70.0,100.0,29.3,10.0,Variable,Drizzle,False,True,False,False,True,False,False,True,Day
+1,0.0,large_local,74.0,41.0,29.79,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,1.4780000000000002,local,74.0,41.0,29.79,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,78.0,35.0,29.94,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,87.0,44.0,29.9,10.0,S,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,local,87.0,44.0,29.9,10.0,S,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,large_local,76.0,77.0,29.89,10.0,SW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,2.557,Beltway,80.0,81.0,29.98,6.0,SW,Drizzle,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,77.0,76.0,29.97,10.0,Calm,Partly Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,local,84.0,32.0,30.05,10.0,NW,Partly Cloudy,False,True,False,False,False,False,False,False,Day
+1,0.0,large_local,83.0,27.0,30.01,10.0,NW,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,Highway,82.0,36.0,29.76,10.0,SW,Fair,False,False,False,False,False,True,False,False,Day
+1,0.0,Interstate,64.0,73.0,30.08,10.0,NE,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,64.0,73.0,30.08,10.0,NE,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,68.0,55.0,30.23,10.0,NE,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,1.395,Interstate,73.0,50.0,30.36,10.0,NE,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,72.0,50.0,30.17,10.0,E,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,1.11,Beltway,69.0,57.0,30.34,10.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,1.11,Beltway,69.0,57.0,30.34,10.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,71.0,53.0,29.69,10.0,Variable,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,69.0,53.0,29.68,10.0,Variable,Fair,False,True,False,False,False,False,False,True,Day
+1,0.421,Interstate,73.0,66.0,30.0,10.0,NE,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.421,Interstate,73.0,66.0,30.0,10.0,NE,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.097,large_local,66.0,96.0,29.57,9.0,Calm,Thunderstorms,False,False,False,False,False,False,False,False,Day
+1,0.0,local,66.0,94.0,29.57,9.0,Variable,Drizzle,False,True,False,False,False,False,False,True,Day
+1,0.097,large_local,66.0,96.0,29.57,9.0,Calm,Thunderstorms,False,False,False,False,False,False,False,False,Day
+1,0.0,local,77.0,71.0,29.81,10.0,E,Mostly Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,Beltway,51.0,96.0,30.18,4.0,SW,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,local,50.0,94.0,30.14,7.0,S,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,53.0,93.0,30.19,5.0,SW,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,local,50.0,94.0,30.14,7.0,S,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,66.0,73.0,30.17,10.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,62.0,78.0,30.19,9.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,62.0,78.0,30.19,9.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,66.0,73.0,30.17,10.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,66.0,73.0,30.17,10.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,69.0,65.0,30.13,10.0,NE,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,59.0,83.0,29.6,10.0,Variable,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,local,63.0,75.0,29.57,10.0,E,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,63.0,77.0,29.84,10.0,NE,Mostly Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,Beltway,60.0,74.0,30.11,10.0,NE,Mostly Cloudy,False,False,True,False,False,False,False,False,Night
+1,0.0,Beltway,59.0,74.0,30.12,10.0,NE,Cloudy,False,False,True,False,False,False,False,False,Night
+1,0.0,local,59.0,83.0,29.6,10.0,Variable,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,Beltway,59.0,74.0,30.12,10.0,NE,Cloudy,False,False,True,False,False,False,False,False,Night
+1,0.0,large_local,73.0,62.0,29.92,10.0,S,Partly Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.6759999999999999,Highway,52.0,61.0,29.57,10.0,NW,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,Beltway,49.0,38.0,30.34,10.0,N,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,Beltway,49.0,38.0,30.34,10.0,N,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,Beltway,39.0,83.0,30.31,10.0,NE,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,Beltway,39.0,83.0,30.3,7.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.852,local,45.0,100.0,30.23,2.0,NE,Fog,False,False,False,False,False,False,False,False,Day
+1,0.852,local,45.0,100.0,30.23,2.0,NE,Fog,False,False,False,False,False,False,False,False,Day
+1,0.0,Interstate,43.0,86.0,29.3,10.0,NE,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,Interstate,43.0,86.0,29.3,10.0,NE,Cloudy,False,False,True,False,False,False,False,False,Night
+1,0.0,Interstate,43.0,86.0,29.3,10.0,NE,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,Interstate,43.0,86.0,29.3,10.0,NE,Cloudy,False,False,True,False,False,False,False,False,Night
+1,0.0,Beltway,47.0,67.0,30.06,10.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,47.0,67.0,30.06,10.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.004,local,52.0,82.0,29.49,10.0,SW,Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.004,local,51.0,84.0,29.48,10.0,Calm,Mostly Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,local,51.0,84.0,29.48,10.0,Calm,Mostly Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,large_local,61.0,54.0,29.84,10.0,N,Fair,False,True,False,False,False,False,False,False,Day
+1,0.0,local,62.0,51.0,29.85,10.0,N,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,local,61.0,54.0,29.84,10.0,N,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,large_local,62.0,51.0,29.85,10.0,N,Fair,False,True,False,False,False,False,False,False,Day
+1,0.0,local,61.0,53.0,29.84,10.0,NE,Fair,False,True,False,False,False,False,False,True,Day
+1,0.0,large_local,61.0,53.0,29.84,10.0,NE,Fair,False,True,False,False,False,False,False,False,Day
+1,0.0,large_local,62.0,51.0,29.85,10.0,N,Fair,False,True,False,False,False,False,False,False,Day
+1,0.0,local,62.0,51.0,29.85,10.0,N,Fair,False,True,False,False,False,False,False,True,Day
+1,0.01,Highway,64.0,45.0,29.85,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,50.0,100.0,29.42,3.0,SE,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,69.0,35.0,29.29,10.0,SW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,62.0,32.0,29.85,10.0,N,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,large_local,62.0,32.0,29.85,10.0,N,Fair,False,False,False,False,False,False,False,True,Day
+1,0.0,Beltway,46.0,80.0,29.82,5.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.01,Highway,46.0,80.0,29.82,5.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,45.0,84.0,29.84,4.0,E,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,45.0,84.0,29.84,4.0,E,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,44.0,83.0,29.83,4.0,E,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,41.0,80.0,29.51,10.0,N,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,Beltway,41.0,80.0,29.51,10.0,N,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,Beltway,41.0,80.0,29.51,10.0,N,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,Beltway,41.0,74.0,29.79,10.0,N,Cloudy,False,False,False,False,False,False,False,False,Day
+1,1.217,large_local,53.0,52.0,29.63,10.0,NW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,2.26,large_local,51.0,31.0,29.76,10.0,NW,Fair,False,False,True,False,False,False,False,False,Day
+1,2.26,large_local,52.0,31.0,29.76,10.0,NW,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,Beltway,56.0,57.0,30.03,10.0,NE,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,Beltway,57.0,56.0,30.03,10.0,N,Partly Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,Beltway,57.0,55.0,30.03,10.0,N,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,Highway,64.0,73.0,29.45,10.0,S,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,2.9560000000000004,Interstate,66.0,65.0,29.21,10.0,Variable,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,66.0,64.0,29.45,10.0,SW,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,63.0,69.0,29.72,10.0,S,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,63.0,69.0,29.72,10.0,S,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,2.9560000000000004,Interstate,63.0,72.0,29.21,10.0,S,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,64.0,73.0,29.45,10.0,S,Partly Cloudy,False,False,False,False,False,False,False,False,Day
+1,2.9560000000000004,Interstate,63.0,72.0,29.21,10.0,S,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,74.0,41.0,29.54,10.0,NW,Partly Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,Beltway,66.0,66.0,29.05,10.0,SW,Fair,False,False,False,False,False,False,False,False,Day
+1,1.33,Beltway,49.0,27.0,29.66,10.0,NW,Cloudy,False,False,False,False,False,False,False,False,Day
+1,1.33,Beltway,48.0,27.0,29.67,10.0,NW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.754,Beltway,51.0,33.0,30.09,10.0,NW,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.754,Beltway,53.0,35.0,30.08,10.0,W,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,local,40.0,74.0,29.77,10.0,NW,Partly Cloudy,False,False,False,False,False,True,False,False,Day
+1,0.0,local,48.0,46.0,29.91,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,48.0,46.0,29.91,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Beltway,49.0,21.0,30.16,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,1.357,Highway,54.0,51.0,29.37,10.0,Variable,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,55.0,63.0,29.37,10.0,NE,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,55.0,63.0,29.37,10.0,NE,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,local,57.0,56.0,29.34,10.0,NE,Mostly Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,local,57.0,56.0,29.34,10.0,NE,Mostly Cloudy,False,False,False,False,False,False,False,True,Day
+1,1.588,Interstate,60.0,44.0,29.07,10.0,W,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,large_local,63.0,46.0,29.46,10.0,W,Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,large_local,63.0,46.0,29.46,10.0,W,Cloudy,False,True,False,False,False,False,False,True,Day
+1,1.275,large_local,61.0,23.0,29.31,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.0,Highway,59.0,16.0,29.59,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,1.275,large_local,61.0,23.0,29.31,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,0.01,Highway,59.0,16.0,29.59,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,1.347,Beltway,56.0,13.0,29.92,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,1.347,Beltway,56.0,13.0,29.92,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
+1,1.539,local,64.0,24.0,29.96,10.0,NW,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.0,Highway,57.0,20.0,29.92,10.0,NW,Cloudy,False,False,False,False,False,False,False,True,Day
+1,4.735,Interstate,52.0,54.0,29.7,10.0,Calm,Fair,False,False,True,False,False,False,False,False,Day
+1,0.0,large_local,52.0,99.0,29.59,4.0,SE,Drizzle,False,False,True,False,False,False,False,False,Day
+1,0.0,local,52.0,99.0,29.59,4.0,SE,Drizzle,False,False,False,False,False,False,False,False,Day
+1,2.643,Beltway,51.0,100.0,29.32,10.0,NE,Drizzle,False,False,False,False,False,False,False,False,Day
+1,2.643,Beltway,52.0,100.0,29.32,6.0,NE,Drizzle,False,False,False,False,False,False,False,False,Day
+1,2.643,Beltway,52.0,100.0,29.32,6.0,NE,Drizzle,False,False,False,False,False,False,False,False,Day
+1,0.0,local,52.0,100.0,29.32,10.0,NE,Cloudy,False,False,True,False,False,False,False,False,Day
+1,0.0,local,52.0,93.0,29.1,5.0,Variable,Cloudy,False,True,False,False,False,False,False,True,Day
+1,0.0,local,54.0,80.0,29.22,10.0,Variable,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.003,local,54.0,80.0,29.2,10.0,NE,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.003,local,54.0,80.0,29.2,10.0,NE,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.003,local,54.0,80.0,29.22,10.0,Variable,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.003,local,54.0,80.0,29.22,10.0,Variable,Cloudy,False,False,False,False,False,False,False,True,Day
+1,0.32,Beltway,38.0,94.0,30.12,10.0,Calm,Partly Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.32,Beltway,38.0,94.0,30.12,10.0,Calm,Partly Cloudy,False,False,False,False,False,False,False,False,Night
+1,0.0,Interstate,54.0,67.0,29.86,10.0,S,Cloudy,False,False,False,False,False,False,False,False,Day
+1,0.017,large_local,70.0,59.0,29.65,10.0,SE,Fair,False,False,False,False,False,False,False,False,Day
