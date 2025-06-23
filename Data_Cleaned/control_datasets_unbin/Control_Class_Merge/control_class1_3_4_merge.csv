@@ -4610,7 +4610,6 @@ Class,Distance(mi),Street,Temperature(F),Humidity(%),Pressure(in),Visibility(mi)
 0,0.0,Highway,59.0,72.0,29.75,10.0,N,Cloudy,False,False,True,False,False,False,False,False,Night
 0,0.0,Interstate,73.0,39.0,30.06,10.0,E,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
 0,0.4399999976158142,local,52.0,82.0,29.96,10.0,Calm,Fair,False,False,False,False,False,False,False,False,Day
-0,0.0,Booth's Escape,60.0,36.0,30.26,8.0,unknown,Fair,False,False,False,False,False,False,False,False,Day
 0,0.0,local,56.0,44.0,29.94,10.0,NE,Fair,False,False,False,False,False,False,False,True,Day
 0,0.0,large_local,56.0,44.0,29.94,10.0,NE,Fair,False,False,False,False,False,False,False,True,Day
 0,0.0,Interstate,59.0,34.0,30.26,10.0,N,Fair,False,False,False,False,False,False,False,False,Day
@@ -16397,7 +16396,6 @@ Class,Distance(mi),Street,Temperature(F),Humidity(%),Pressure(in),Visibility(mi)
 0,0.309,Interstate,52.0,93.0,29.86,0.0,Calm,Fog,False,False,False,False,False,False,False,False,Day
 0,0.1669999999999999,Highway,62.0,86.0,29.69,10.0,SE,Mostly Cloudy,False,False,False,False,False,False,False,False,Night
 0,0.351,77A-B,73.0,65.0,29.92,9.0,NW,Fair,False,False,True,False,False,False,False,False,Day
-0,1.154,Booth's Escape,69.0,76.0,29.83,10.0,S,Fair,False,False,True,False,False,False,False,False,Night
 0,0.014,large_local,69.0,76.0,29.83,10.0,S,Fair,False,False,False,False,False,False,False,True,Night
 0,0.173,Interstate,21.0,100.0,30.16,5.0,Calm,Snow,False,False,False,False,False,False,False,False,Night
 0,0.444,Interstate,61.0,100.0,28.92,2.0,Calm,Fog,False,False,False,False,False,False,False,False,Day
@@ -16862,7 +16860,6 @@ Class,Distance(mi),Street,Temperature(F),Humidity(%),Pressure(in),Visibility(mi)
 0,0.222,Interstate,82.0,35.0,30.01,10.0,NW,Fair,False,False,False,False,False,False,False,False,Day
 0,0.031,local,72.0,94.0,29.3,7.0,Calm,Cloudy,False,True,False,False,False,False,False,True,Night
 0,0.156,Beltway,44.0,81.0,29.7,7.0,W,Haze,False,False,True,False,False,False,False,False,Day
-0,2.173,Booth's Escape,53.0,61.0,30.48,10.0,S,Mostly Cloudy,False,False,False,False,False,False,False,False,Day
 0,0.012,large_local,61.0,23.0,29.77,10.0,Calm,Fair,False,False,False,False,False,False,False,True,Day
 0,0.405,Interstate,34.0,70.0,30.49,10.0,Calm,Fair,False,False,True,False,False,False,False,False,Day
 0,0.268,local,72.0,41.0,29.25,10.0,Variable,Fair,False,False,False,False,False,False,False,False,Day
@@ -16921,7 +16918,6 @@ Class,Distance(mi),Street,Temperature(F),Humidity(%),Pressure(in),Visibility(mi)
 0,0.015,Interstate,48.0,44.0,29.98,10.0,E,Cloudy,False,False,False,False,False,False,False,False,Day
 0,0.413,large_local,16.0,58.0,30.07,10.0,NE,Fair,False,False,True,False,False,False,False,False,Night
 0,0.052,local,48.0,57.0,30.39,10.0,SE,Fair,False,False,False,False,False,False,False,False,Night
-0,0.419,Booth's Escape,55.0,100.0,29.78,0.75,E,Fog,False,True,False,False,False,False,False,True,Day
 0,0.273,Highway,75.0,57.0,29.52,10.0,NW,Windy,False,False,False,False,False,False,False,False,Day
 0,0.261,Interstate,33.0,85.0,29.85,10.0,SW,Fair,False,False,False,False,False,False,False,False,Night
 0,0.048,large_local,54.0,62.0,29.72,10.0,N,Fair,False,False,False,False,False,False,False,False,Day

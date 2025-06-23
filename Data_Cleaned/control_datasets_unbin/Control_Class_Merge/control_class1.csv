@@ -136,7 +136,6 @@ Class,Distance(mi),Street,Temperature(F),Humidity(%),Pressure(in),Visibility(mi)
 1,0.0,local,65.0,90.0,30.04,5.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
 1,0.0,local,65.0,93.0,30.04,5.0,NE,Cloudy,False,False,False,False,False,False,False,False,Day
 1,0.0,local,60.0,83.0,30.22,10.0,NE,Cloudy,False,True,False,False,False,False,False,True,Day
-1,0.0,Booth's Escape,60.0,36.0,30.26,8.0,unknown,Fair,False,False,False,False,False,False,False,False,Day
 1,0.0,local,56.0,44.0,29.94,10.0,NE,Fair,False,False,False,False,False,False,False,True,Day
 1,0.0,large_local,56.0,44.0,29.94,10.0,NE,Fair,False,False,False,False,False,False,False,True,Day
 1,0.0,local,54.0,100.0,29.92,10.0,Calm,Cloudy,False,False,False,False,False,False,False,False,Night
