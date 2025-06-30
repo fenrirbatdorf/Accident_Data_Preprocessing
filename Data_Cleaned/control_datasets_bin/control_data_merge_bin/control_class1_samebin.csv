@@ -1,0 +1,274 @@
+Distance(mi),Street,Temperature(F),Humidity(%),Pressure(in),Visibility(mi),Wind_Direction,Weather_Condition,Amenity,Crossing,Junction,Railway,Station,Stop,Traffic_Calming,Traffic_Signal,Sunrise_Sunset
+'\'(-inf-0.0135]\'',Beltway,'\'(46.1-56.9]\'','\'(-inf-43.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(36.95-46.1]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',N,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',SW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',E,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SE,Fair,False,True,False,False,False,False,False,True,Day
+'\'(0.0135-0.5225]\'',large_local,'\'(76.9-inf)\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,True,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',S,Overcast,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Thunder,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(76.9-inf)\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,Fair,False,True,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(36.95-46.1]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',E,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Fair,False,True,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',large_local,'\'(46.1-56.9]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(36.95-46.1]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',NE,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',large_local,'\'(46.1-56.9]\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(36.95-46.1]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(46.1-56.9]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NE,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',Calm,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SE,Clear,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,Clear,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Fair,False,True,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',local,'\'(36.95-46.1]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',NE,Fog,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Beltway,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',NE,Drizzle,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Beltway,'\'(76.9-inf)\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,'Mostly Cloudy',False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,Fair,False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,'Mostly Cloudy',False,False,True,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',Interstate,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(-inf-43.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',N,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',SW,Fair,False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',SW,Cloudy,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(76.9-inf)\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,True,True,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,'Partly Cloudy',False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',E,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,True,Night
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,'Partly Cloudy',False,True,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',W,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Variable,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',Calm,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',NW,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,Cloudy,False,False,False,False,False,True,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(43.5-55.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',E,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',Calm,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(36.95-46.1]\'','\'(82.5-93.5]\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',NE,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(76.9-inf)\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,Fair,False,False,False,False,True,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Cloudy,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(82.5-93.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,Cloudy,False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',S,'Mostly Cloudy',False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NE,Fair,False,False,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',Beltway,'\'(76.9-inf)\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(56.9-67.05]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Cloudy,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',E,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,Fair,False,True,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',local,'\'(56.9-67.05]\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(46.1-56.9]\'','\'(-inf-43.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',N,Cloudy,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',large_local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',SE,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(36.95-46.1]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',N,Cloudy,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Highway,'\'(46.1-56.9]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NE,Fair,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',Variable,Drizzle,False,True,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',Interstate,'\'(46.1-56.9]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',SE,'Mostly Cloudy',False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',SW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Interstate,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Fair,False,True,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',Beltway,'\'(46.1-56.9]\'','\'(-inf-43.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',W,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',SW,'Heavy Rain',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',W,'Mostly Cloudy',False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(-inf-36.95]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NE,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',Calm,Fog,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,Drizzle,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(76.9-inf)\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(-inf-36.95]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,Overcast,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',Variable,Cloudy,False,True,False,False,False,False,False,True,Day
+'\'(0.0135-0.5225]\'',large_local,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',Calm,Thunderstorms,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,'Partly Cloudy',False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',large_local,'\'(56.9-67.05]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',E,Fair,False,True,True,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',E,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',W,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(36.95-46.1]\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,'Scattered Clouds',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,False,Night
+'\'(0.5225-inf)\'',Highway,'\'(46.1-56.9]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,'Partly Cloudy',False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',SE,Fair,False,False,True,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Beltway,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',Calm,Fog,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Fair,False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(67.05-76.9]\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,'Partly Cloudy',False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',SW,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NE,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Highway,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Variable,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Cloudy,False,True,False,False,True,False,False,True,Day
+'\'(-inf-0.0135]\'',large_local,'\'(36.95-46.1]\'','\'(43.5-55.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,True,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(43.5-55.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,Clear,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',Calm,Fair,False,False,True,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(46.1-56.9]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NE,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',W,Cloudy,False,True,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',Interstate,'\'(56.9-67.05]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',W,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',E,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(76.9-inf)\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',SW,Haze,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Cloudy,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(67.05-76.9]\'','\'(43.5-55.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',SW,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,Cloudy,False,False,True,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',Interstate,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Variable,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(56.9-67.05]\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(36.95-46.1]\'','\'(82.5-93.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,Cloudy,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,'Mostly Cloudy',False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(82.5-93.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(36.95-46.1]\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',S,Cloudy,False,True,False,False,False,False,False,True,Day
+'\'(0.0135-0.5225]\'',large_local,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SE,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(-inf-36.95]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',W,Fair,False,True,False,False,False,False,False,True,Night
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',SW,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',E,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',E,Fog,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',NE,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',E,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Beltway,'\'(46.1-56.9]\'','\'(-inf-43.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',W,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Interstate,'\'(76.9-inf)\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(-inf-43.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NW,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',W,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',S,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NE,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',SE,'Mostly Cloudy',False,False,True,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Highway,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',N,Rain,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Cloudy,False,True,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Variable,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',NE,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NE,'Mostly Cloudy',False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',S,Clear,False,False,False,False,False,False,False,True,Night
+'\'(-inf-0.0135]\'',Highway,'\'(76.9-inf)\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,True,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Cloudy,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',SW,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Fair,False,True,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',Beltway,'\'(46.1-56.9]\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(46.1-56.9]\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',local,'\'(67.05-76.9]\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(56.9-67.05]\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(36.95-46.1]\'','\'(43.5-55.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,Clear,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,'Mostly Cloudy',False,False,True,False,False,False,False,False,Night
+'\'(0.0135-0.5225]\'',Interstate,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NE,Cloudy,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',Calm,Drizzle,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',large_local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',NW,Cloudy,False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NE,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NE,'Mostly Cloudy',False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Fair,False,True,False,False,False,False,True,True,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(36.95-46.1]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NE,Cloudy,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(-inf-43.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(0.0135-0.5225]\'',Beltway,'\'(36.95-46.1]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,'Partly Cloudy',False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',Interstate,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NE,Cloudy,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',Calm,Fog,False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,True,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Fair,False,True,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Interstate,'\'(76.9-inf)\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(36.95-46.1]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NE,Cloudy,False,False,True,False,False,False,False,False,Night
+'\'(0.5225-inf)\'',Beltway,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',S,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,'Partly Cloudy',False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',S,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',local,'\'(46.1-56.9]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Cloudy,False,False,False,False,False,True,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(-inf-36.95]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',S,Fair,False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(56.9-67.05]\'','\'(82.5-93.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',Calm,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NE,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(43.5-55.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,'Partly Cloudy',False,True,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(43.5-55.5]\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',SW,Cloudy,False,True,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',Interstate,'\'(76.9-inf)\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Cloudy,False,True,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',Beltway,'\'(46.1-56.9]\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Fair,False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',S,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Beltway,'\'(46.1-56.9]\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Interstate,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',Calm,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',SW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Interstate,'\'(56.9-67.05]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Variable,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',unknown,'Partly Cloudy',False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',Calm,'Scattered Clouds',False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',Calm,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',SW,Clear,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Interstate,'\'(46.1-56.9]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,False,Night
+'\'(0.5225-inf)\'',local,'\'(56.9-67.05]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',SE,'Heavy Rain',False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SE,'Mostly Cloudy',False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',E,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',S,'Partly Cloudy',False,False,False,False,True,False,False,False,Night
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',SE,Drizzle,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',W,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(93.5-inf)\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',NE,Cloudy,False,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',Beltway,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NE,Drizzle,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(46.1-56.9]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',SE,Cloudy,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,Cloudy,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',SW,'Scattered Clouds',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(36.95-46.1]\'','\'(55.5-68.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',SW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',S,'Partly Cloudy',False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(-inf-43.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',SW,Fair,False,False,False,False,False,False,False,True,Day
+'\'(0.5225-inf)\'',Highway,'\'(46.1-56.9]\'','\'(55.5-68.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Cloudy,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',local,'\'(46.1-56.9]\'','\'(43.5-55.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Cloudy,False,True,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(76.9-inf)\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,Cloudy,False,True,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(-inf-9.5]\'',SW,Fair,False,True,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NE,Cloudy,True,False,False,False,False,False,False,False,Day
+'\'(0.5225-inf)\'',large_local,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Variable,'Mostly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',large_local,'\'(76.9-inf)\'','\'(-inf-43.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',NW,Fair,False,True,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',W,'Mostly Cloudy',False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',local,'\'(36.95-46.1]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,'Partly Cloudy',False,False,False,False,False,True,False,False,Day
+'\'(-inf-0.0135]\'',Highway,'\'(67.05-76.9]\'','\'(93.5-inf)\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(46.1-56.9]\'','\'(82.5-93.5]\'','\'(30.055-inf)\'','\'(-inf-9.5]\'',SW,Cloudy,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(56.9-67.05]\'','\'(55.5-68.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',Calm,Fair,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Fair,False,False,False,False,False,False,False,False,Night
+'\'(-inf-0.0135]\'',Highway,'\'(56.9-67.05]\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',S,'Partly Cloudy',False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',Beltway,'\'(46.1-56.9]\'','\'(82.5-93.5]\'','\'(-inf-29.815]\'','\'(9.5-10.25]\'',NW,Drizzle,False,False,True,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(36.95-46.1]\'','\'(82.5-93.5]\'','\'(30.055-inf)\'','\'(9.5-10.25]\'',SW,Overcast,False,False,False,False,False,False,False,True,Day
+'\'(-inf-0.0135]\'',Interstate,'\'(76.9-inf)\'','\'(68.5-82.5]\'','\'(-inf-29.815]\'','\'(-inf-9.5]\'',SW,Drizzle,False,False,False,False,False,False,False,False,Day
+'\'(-inf-0.0135]\'',local,'\'(67.05-76.9]\'','\'(82.5-93.5]\'','\'(29.815-30.055]\'','\'(9.5-10.25]\'',N,Cloudy,True,False,False,False,False,False,False,True,Day

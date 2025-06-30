@@ -1,0 +1,31 @@
+Variable1,Variable2,Variable3,Frequency
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, 'Scattered Clouds')","(Traffic_Signal, False)",0.057
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Traffic_Signal, False)",0.101
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, 'Scattered Clouds')","(Crossing, False)",0.06
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, 'Scattered Clouds')","(Stop, False)",0.061
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, 'Scattered Clouds')","(Station, False)",0.061
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, 'Scattered Clouds')","(Amenity, False)",0.061
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, 'Scattered Clouds')","(Traffic_Calming, False)",0.061
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Crossing, False)",0.104
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, 'Scattered Clouds')","(Railway, False)",0.061
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Clear)","(Traffic_Signal, False)",0.122
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Humidity(%), '\'(-inf-43.5]\'')","(Traffic_Signal, False)",0.098
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Humidity(%), '\'(43.5-55.5]\'')","(Traffic_Signal, False)",0.113
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Wind_Direction, S)","(Traffic_Signal, False)",0.05
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Temperature(F), '\'(76.9-inf)\'')","(Traffic_Signal, False)",0.12
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Station, False)",0.106
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Stop, False)",0.106
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Amenity, False)",0.106
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Traffic_Calming, False)",0.106
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Railway, False)",0.106
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Wind_Direction, SE)","(Traffic_Signal, False)",0.066
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Pressure(in), '\'(30.055-inf)\'')","(Traffic_Signal, False)",0.273
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Temperature(F), '\'(67.05-76.9]\'')","(Traffic_Signal, False)",0.126
+"(Weather_Condition, Overcast)","(Traffic_Signal, False)","(Sunrise_Sunset, Day)",0.092
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Street, Beltway)",,0.131
+"(Distance(mi), '\'(0.0135-0.5225]\'')","(Weather_Condition, Cloudy)",,0.073
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Street, Interstate)",,0.244
+"(Distance(mi), '\'(0.0135-0.5225]\'')","(Weather_Condition, Fair)",,0.122
+"(Distance(mi), '\'(-inf-0.0135]\'')","(Junction, True)",,0.171
+"(Distance(mi), '\'(0.0135-0.5225]\'')","(Street, local)",,0.113
+"(Distance(mi), '\'(0.0135-0.5225]\'')","(Pressure(in), '\'(-inf-29.815]\'')",,0.13
