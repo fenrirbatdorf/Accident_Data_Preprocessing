@@ -1,0 +1,9 @@
+Variable1,Variable2,Variable3,Frequency
+"(Weather_Condition, Overcast)","(Traffic_Signal, False)",,0.136
+"(Weather_Condition, Overcast)","(Crossing, False)",,0.139
+"(Weather_Condition, Overcast)","(Station, False)",,0.142
+"(Weather_Condition, Overcast)","(Stop, False)",,0.142
+"(Weather_Condition, Overcast)","(Amenity, False)",,0.142
+"(Weather_Condition, Overcast)","(Traffic_Calming, False)",,0.141
+"(Weather_Condition, Overcast)","(Railway, False)",,0.141
+"(Weather_Condition, Clear)","(Traffic_Signal, False)",,0.177
