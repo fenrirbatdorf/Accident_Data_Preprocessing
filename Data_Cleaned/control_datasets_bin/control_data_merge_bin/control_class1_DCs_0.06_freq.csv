@@ -1,11 +1,4 @@
 Variable1,Variable2,Variable3,Frequency
-"(Street, Beltway)","(Wind_Direction, NE)","(Amenity, False)",0.04
-"(Street, Beltway)","(Wind_Direction, NE)","(Crossing, False)",0.04
-"(Street, Beltway)","(Wind_Direction, NE)","(Railway, False)",0.04
-"(Street, Beltway)","(Wind_Direction, NE)","(Station, False)",0.04
-"(Street, Beltway)","(Wind_Direction, NE)","(Stop, False)",0.04
-"(Street, Beltway)","(Wind_Direction, NE)","(Traffic_Calming, False)",0.04
-"(Street, Beltway)","(Wind_Direction, NE)","(Traffic_Signal, False)",0.04
 "(Wind_Direction, Variable)","(Stop, False)","(Sunrise_Sunset, Day)",0.065
 "(Wind_Direction, Variable)","(Station, False)","(Sunrise_Sunset, Day)",0.065
 "(Street, local)","(Weather_Condition, Cloudy)","(Junction, False)",0.112
@@ -17,19 +10,23 @@ Variable1,Variable2,Variable3,Frequency
 "(Street, local)","(Weather_Condition, Cloudy)","(Station, False)",0.112
 "(Street, local)","(Weather_Condition, Cloudy)","(Stop, False)",0.108
 "(Street, local)","(Weather_Condition, Cloudy)","(Amenity, False)",0.108
-"(Street, large_local)","(Crossing, True)","(Station, False)",0.058
-"(Wind_Direction, NE)","(Weather_Condition, Cloudy)","(Station, False)",0.058
-"(Wind_Direction, NE)","(Weather_Condition, Cloudy)","(Stop, False)",0.058
 "(Street, local)","(Weather_Condition, Cloudy)","(Crossing, False)",0.086
 "(Wind_Direction, Variable)","(Station, False)","(Stop, False)",0.068
-"(Street, large_local)","(Crossing, True)","(Traffic_Calming, False)",0.058
 "(Wind_Direction, Variable)","(Station, False)","(Traffic_Calming, False)",0.068
 "(Wind_Direction, Variable)","(Stop, False)","(Traffic_Calming, False)",0.068
-"(Wind_Direction, NE)","(Weather_Condition, Cloudy)","(Traffic_Calming, False)",0.058
 "(Wind_Direction, Variable)","(Railway, False)","(Stop, False)",0.068
 "(Street, local)","(Humidity(_%), '\'(93.5-inf)\'')","(Traffic_Signal, False)",0.086
-"(Wind_Direction, NE)","(Weather_Condition, Cloudy)","(Crossing, False)",0.054
-"(Wind_Direction, NE)","(Weather_Condition, Cloudy)","(Railway, False)",0.058
 "(Wind_Direction, Variable)","(Amenity, False)","(Station, False)",0.068
 "(Wind_Direction, Variable)","(Amenity, False)","(Stop, False)",0.068
 "(Wind_Direction, Variable)","(Railway, False)","(Station, False)",0.068
+"(Street, large_local)","(Sunrise_Sunset, Night)",,0.063
+"(Weather_Condition, Cloudy)","(Traffic_Signal, True)",,0.079
+"(Visibility(mi), '\'(-inf-9.5]\'')","(Sunrise_Sunset, Night)",,0.079
+"(Street, Highway)","(Sunrise_Sunset, Night)",,0.067
+"(Weather_Condition, Fair)","(Crossing, True)",,0.072
+"(Wind_Direction, Variable)","(Junction, False)",,0.068
+"(Crossing, True)","(Sunrise_Sunset, Day)",,0.144
+"(Weather_Condition, Fair)","(Traffic_Signal, True)",,0.115
+"(Traffic_Signal, True)","(Sunrise_Sunset, Day)",,0.245
+"(Crossing, True)","(Traffic_Signal, True)",,0.112
+"(Weather_Condition, Overcast)",,,0.066

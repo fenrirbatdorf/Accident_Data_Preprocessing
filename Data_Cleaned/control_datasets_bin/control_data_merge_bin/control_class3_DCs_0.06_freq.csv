@@ -1,6 +1,4 @@
 Variable1,Variable2,Variable3,Frequency
-"(Weather_Condition, Clear)","(Junction, True)",,0.051
-"(Street, Interstate)","(Weather_Condition, Clear)",,0.051
 "(Weather_Condition, 'Scattered Clouds')","(Traffic_Signal, False)",,0.074
 "(Weather_Condition, Overcast)","(Traffic_Signal, False)",,0.136
 "(Weather_Condition, 'Scattered Clouds')","(Crossing, False)",,0.078
