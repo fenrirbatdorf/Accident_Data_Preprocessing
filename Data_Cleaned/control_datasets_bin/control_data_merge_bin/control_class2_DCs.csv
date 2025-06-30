@@ -1,0 +1,11 @@
+Variable1,Variable2,Variable3,Frequency
+"(Weather_Condition, Overcast)","(Crossing, False)","(Sunrise_Sunset, Night)",0.041
+"(Weather_Condition, Clear)","(Traffic_Signal, False)","(Sunrise_Sunset, Night)",0.056
+"(Weather_Condition, Overcast)","(Station, False)","(Sunrise_Sunset, Night)",0.042
+"(Weather_Condition, Overcast)","(Traffic_Calming, False)","(Sunrise_Sunset, Night)",0.042
+"(Weather_Condition, Overcast)","(Stop, False)","(Sunrise_Sunset, Night)",0.042
+"(Weather_Condition, Overcast)","(Amenity, False)","(Sunrise_Sunset, Night)",0.042
+"(Weather_Condition, Overcast)","(Railway, False)","(Sunrise_Sunset, Night)",0.042
+"(Weather_Condition, 'Scattered Clouds')","(Crossing, False)","(Stop, False)",0.064
+"(Weather_Condition, 'Scattered Clouds')","(Traffic_Signal, False)",,0.061
+"(Weather_Condition, Overcast)","(Traffic_Signal, False)",,0.113

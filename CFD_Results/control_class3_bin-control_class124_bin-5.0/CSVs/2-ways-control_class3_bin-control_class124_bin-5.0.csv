@@ -1,4 +1,4 @@
-Type;Class;Variable1;Variable2;Frequency;Frequency_Difference
+Type;Class;Variable1;Variable2;Frequency;Frequency_Difference;
 U;0;(Humidity(_%), '\'(93.5-inf)\'');(Weather_Condition, 'Wintry Mix');0.002;;
 U;0;(Humidity(_%), '\'(93.5-inf)\'');(Station, True);0.001;;
 U;0;(Weather_Condition, Fair);(Railway, True);0.001;;

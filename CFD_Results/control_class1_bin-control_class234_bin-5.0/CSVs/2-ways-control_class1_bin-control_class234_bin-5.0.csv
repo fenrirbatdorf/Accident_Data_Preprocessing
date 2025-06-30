@@ -1,4 +1,4 @@
-Type;Class;Variable1;Variable2;Frequency;Frequency_Difference
+Type;Class;Variable1;Variable2;Frequency;Frequency_Difference;
 U;0;(Street, Highway);(Weather_Condition, Clear);0.020;;
 U;0;(Weather_Condition, Drizzle);(Sunrise_Sunset, Night);0.018;;
 U;0;(Wind_Direction, NW);(Weather_Condition, Clear);0.018;;

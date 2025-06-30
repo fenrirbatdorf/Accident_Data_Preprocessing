@@ -1,4 +1,4 @@
-Type;Class;Variable1;Variable2;Variable3;Frequency;Frequency_Difference
+Type;Class;Variable1;Variable2;Variable3;Frequency;Frequency_Difference;
 U;0;(Street, Beltway);(Wind_Direction, NW);(Weather_Condition, Clear);0.002;;
 U;0;(Street, Beltway);(Wind_Direction, SE);(Weather_Condition, Cloudy);0.002;;
 U;0;(Street, Beltway);(Pressure(in), '\'(-inf-29.815]\'');(Weather_Condition, Overcast);0.002;;

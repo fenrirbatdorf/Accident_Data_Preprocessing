@@ -1,4 +1,4 @@
-Type;Class;Variable1;Variable2;Frequency;Frequency_Difference
+Type;Class;Variable1;Variable2;Frequency;Frequency_Difference;
 U;0;(Street, Interstate);(Weather_Condition, Thunderstorm);0.000;;
 U;0;(Wind_Direction, SW);(Weather_Condition, 'Light Freezing Rain');0.000;;
 U;1;(Street, on_off_ramp);(Wind_Direction, W);0.000;;

@@ -1,4 +1,4 @@
-Type;Class;Variable1;Variable2;Frequency;Frequency_Difference
+Type;Class;Variable1;Variable2;Frequency;Frequency_Difference;
 U;0;(Street, Interstate);(Weather_Condition, Thunder);0.000;;
 U;0;(Street, Tunnel);(Weather_Condition, Cloudy);0.000;;
 U;0;(Visibility(mi), '\'(-inf-9.5]\'');(Wind_Direction, unknown);0.000;;

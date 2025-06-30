@@ -1,4 +1,4 @@
-Type;Class;Variable1;Frequency;Frequency_Difference
+Type;Class;Variable1;Frequency;Frequency_Difference;
 U;1;(Visibility(mi), '\'(9.5-10.25]\'');0.786;;
 U;0;(Visibility(mi), '\'(9.5-inf)\'');0.772;;
 U;1;(Distance(mi), '\'(-inf-0.0005]\'');0.593;;

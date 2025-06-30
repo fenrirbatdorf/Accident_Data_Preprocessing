@@ -1,4 +1,4 @@
-Type;Class;Variable1;Variable2;Variable3;Frequency;Frequency_Difference
+Type;Class;Variable1;Variable2;Variable3;Frequency;Frequency_Difference;
 U;0;(Wind_Direction, SE);(Weather_Condition, Fair);(Crossing, True);0.001;;
 U;0;(Visibility(mi), '\'(-inf-9.5]\'');(Weather_Condition, 'Mostly Cloudy');(Crossing, True);0.001;;
 U;0;(Humidity(_%), '\'(93.5-inf)\'');(Weather_Condition, 'Mostly Cloudy');(Crossing, True);0.001;;
