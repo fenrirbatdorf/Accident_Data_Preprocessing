@@ -1,0 +1,13 @@
+Type,Class,Variable1,Variable2,Variable3,Frequency
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Traffic_Signal, False)",0.101
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Crossing, False)",0.104
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Clear)","(Traffic_Signal, False)",0.122
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Humidity(%), '\'(43.5-55.5]\'')","(Traffic_Signal, False)",0.113
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Temperature(F), '\'(76.9-inf)\'')","(Traffic_Signal, False)",0.12
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Station, False)",0.106
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Stop, False)",0.106
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Amenity, False)",0.106
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Traffic_Calming, False)",0.106
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Weather_Condition, Overcast)","(Railway, False)",0.106
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Pressure(in), '\'(30.055-inf)\'')","(Traffic_Signal, False)",0.273
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Temperature(F), '\'(67.05-76.9]\'')","(Traffic_Signal, False)",0.126

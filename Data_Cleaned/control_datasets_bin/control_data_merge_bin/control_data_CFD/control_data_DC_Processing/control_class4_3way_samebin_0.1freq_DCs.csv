@@ -1,0 +1,7 @@
+Type,Class,Variable1,Variable2,Variable3,Frequency
+D,1,"(Distance(mi), '\'(0.5225-inf)\'')","(Street, local)","(Junction, False)",0.112
+D,1,"(Distance(mi), '\'(0.5225-inf)\'')","(Street, local)","(Crossing, False)",0.108
+D,1,"(Distance(mi), '\'(0.5225-inf)\'')","(Street, local)","(Traffic_Calming, False)",0.113
+D,1,"(Distance(mi), '\'(0.5225-inf)\'')","(Street, local)","(Station, False)",0.113
+D,1,"(Distance(mi), '\'(0.5225-inf)\'')","(Street, local)","(Railway, False)",0.113
+D,1,"(Distance(mi), '\'(0.5225-inf)\'')","(Street, local)","(Amenity, False)",0.112

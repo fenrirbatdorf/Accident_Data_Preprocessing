@@ -1,0 +1,3 @@
+Variable1,Variable2,Variable3,Frequency
+"(Weather_Condition, Clear)","(Traffic_Signal, False)","(Sunrise_Sunset, Night)",0.056
+"(Weather_Condition, 'Scattered Clouds')","(Crossing, False)","(Stop, False)",0.064

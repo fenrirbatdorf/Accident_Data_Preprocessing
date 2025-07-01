@@ -1,0 +1,3 @@
+Variable1,Variable2,Variable3,Frequency
+"(Street, local)","(Weather_Condition, Clear)","(Crossing, False)",0.052
+"(Weather_Condition, Clear)","(Junction, False)","(Sunrise_Sunset, Night)",0.064
