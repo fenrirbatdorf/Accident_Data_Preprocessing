@@ -1,0 +1,8 @@
+Type, Class, Variable1                      , Variable2                      , Frequency
+D   ,     0, "(Weather_Condition, Fair)"    , "(Traffic_Signal, True)"       ,     0.053
+D   ,     1, "(Weather_Condition, Clear)"   , "(Junction, True)"             ,     0.05
+D   ,     1, "(Street, Interstate)"         , "(Weather_Condition, Clear)"   ,     0.044
+D   ,     1, "(Street, Interstate)"         , "(Weather_Condition, Overcast)",     0.041
+D   ,     1, "(Weather_Condition, Overcast)", "(Junction, True)"             ,     0.036
+D   ,     1, "(Street, Beltway)"            , "(Weather_Condition, Clear)"   ,     0.033
+D   ,     0, "(Weather_Condition, Fair)"    , "(Crossing, True)"             ,     0.032

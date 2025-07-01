@@ -1,0 +1,17 @@
+Type, Class, Variable1                              , Variable2                             , Frequency
+U   ,     0, "(Temperature(F), '\'(36.95-46.1]\'')" , "(Weather_Condition, Fair)"           ,     0.043
+U   ,     0, "(Humidity(%), '\'(43.5-55.5]\'')"     , "(Sunrise_Sunset, Night)"             ,     0.039
+U   ,     0, "(Pressure(in), '\'(29.815-30.055]\'')", "(Weather_Condition, Clear)"          ,     0.032
+D   ,     0, "(Pressure(in), '\'(29.815-30.055]\'')", "(Sunrise_Sunset, Night)"             ,     0.111
+D   ,     0, "(Visibility(mi), '\'(-inf-9.5]\'')"   , "(Sunrise_Sunset, Night)"             ,     0.082
+D   ,     0, "(Temperature(F), '\'(36.95-46.1]\'')" , "(Sunrise_Sunset, Night)"             ,     0.079
+D   ,     0, "(Street, Highway)"                    , "(Sunrise_Sunset, Night)"             ,     0.066
+D   ,     0, "(Street, large_local)"                , "(Sunrise_Sunset, Night)"             ,     0.066
+D   ,     0, "(Wind_Direction, NW)"                 , "(Sunrise_Sunset, Night)"             ,     0.054
+D   ,     0, "(Humidity(%), '\'(55.5-68.5]\'')"     , "(Sunrise_Sunset, Night)"             ,     0.054
+D   ,     0, "(Temperature(F), '\'(36.95-46.1]\'')" , "(Wind_Direction, Calm)"              ,     0.044
+D   ,     0, "(Street, large_local)"                , "(Temperature(F), '\'(36.95-46.1]\'')",     0.037
+D   ,     0, "(Weather_Condition, Clear)"           , "(Sunrise_Sunset, Night)"             ,     0.034
+D   ,     0, "(Street, Highway)"                    , "(Temperature(F), '\'(36.95-46.1]\'')",     0.034
+D   ,     1, "(Temperature(F), '\'(67.05-76.9]\'')" , "(Wind_Direction, Variable)"          ,     0.033
+D   ,     0, "(Wind_Direction, SE)"                 , "(Sunrise_Sunset, Night)"             ,     0.03
