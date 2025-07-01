@@ -1,0 +1,51 @@
+TS: Begin class file loading - 13:53:30
+TS: No incomplete rows found in control_class2_samebin_nodist - 13:53:30
+TS: Removing 5795 duplicate rows from control_class2_samebin_nodist - 13:53:30
+TS: Begin nonclass file loading - 13:53:30
+TS: No incomplete rows found in control_class2_samebin_nodist - 13:53:30
+TS: Removing 2169 duplicate rows from control_class134_merge_samebin_nodist - 13:53:30
+TS: Files loaded - 13:53:30
+TS: Beginning class calculations - 13:53:30
+TS: 3-way combinations indexed through row 0 / 34882 - 13:53:30
+TS: 3-way combinations indexed through row 6976 / 34882 - 13:53:32
+TS: 3-way combinations indexed through row 13952 / 34882 - 13:53:33
+TS: 3-way combinations indexed through row 20928 / 34882 - 13:53:35
+TS: 3-way combinations indexed through row 27904 / 34882 - 13:53:36
+TS: 3-way combinations indexed through row 34880 / 34882 - 13:53:38
+TS: Beginning nonclass calculations - 13:53:38
+TS: 3-way combinations indexed through row 0 / 16132 - 13:53:38
+TS: 3-way combinations indexed through row 3226 / 16132 - 13:53:38
+TS: 3-way combinations indexed through row 6452 / 16132 - 13:53:39
+TS: 3-way combinations indexed through row 9678 / 16132 - 13:53:39
+TS: 3-way combinations indexed through row 12904 / 16132 - 13:53:40
+TS: 3-way combinations indexed through row 16130 / 16132 - 13:53:41
+TS: Combination counting complete - 13:53:41
+TS: Common entries checked - 13:53:41
+TS: 1-way distinguishing combinations calculated - 13:53:41
+TS: 2-way distinguishing combinations calculated - 13:53:41
+TS: 3-way distinguishing combinations calculated - 13:53:41
+TS: Class value frequencies calculated - 13:53:41
+TS: Nonclass value frequencies calculated - 13:53:41
+TS: Unique values calculated - 13:53:41
+TS: Entries with distinguishing combinations determined - 13:53:48
+TS: Maximum possible 2-way class interactions calculated - 13:53:48
+TS: Maximum possible 2-way nonclass interactions calculated - 13:53:48
+TS: Maximum possible 3-way class interactions calculated - 13:53:48
+TS: Maximum possible 3-way nonclass interactions calculated - 13:53:48
+TS: Common combinations calculated - 13:53:48
+TS: 1-way CSV output statements generated - 13:53:48
+TS: 2-way CSV output statements generated - 13:53:48
+TS: 3-way CSV output statements generated - 13:53:48
+TS: Missing 2-way value combinations calculated - 13:53:48
+TS: Missing 3-way value combinations calculated - 13:53:49
+TS: Missing combinations counted - 13:53:49
+TS: Combos analyzed - 13:53:50
+TS: 2-way coverage graph complete - 13:53:51
+TS: 3-way coverage graph complete - 13:53:52
+TS: Calculations complete - 13:53:52
+TS: Starting output file generation - 13:53:52
+TS: Starting Graphs - Bar - 13:53:52
+TS: Starting Graphs - Pie - 13:53:52
+TS: Starting Graphs - Venn - 13:53:56
+TS: Output files generated (program is complete) - 13:53:57
+TS: Info: Total runtime: 0 hours, 0 minutes, and 27 seconds - 13:53:57

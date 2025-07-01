@@ -1,0 +1,7 @@
+Type,Class,Variable1,Variable2,Frequency
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Street, Beltway)",0.131
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Street, Interstate)",0.244
+D,0,"(Distance(mi), '\'(0.0135-0.5225]\'')","(Weather_Condition, Fair)",0.122
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Junction, True)",0.171
+D,0,"(Distance(mi), '\'(0.0135-0.5225]\'')","(Street, local)",0.113
+D,0,"(Distance(mi), '\'(0.0135-0.5225]\'')","(Pressure(in), '\'(-inf-29.815]\'')",0.13

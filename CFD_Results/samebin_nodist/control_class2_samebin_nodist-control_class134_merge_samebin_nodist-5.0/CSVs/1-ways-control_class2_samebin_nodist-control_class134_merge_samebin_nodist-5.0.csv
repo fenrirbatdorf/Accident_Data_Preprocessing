@@ -1,0 +1,8 @@
+Type;Class;Variable1;Frequency;Frequency_Difference;
+U;1;(Weather_Condition, 'Light Snow and Sleet');0.000;;
+U;0;(Visibility(mi), '\'(10.25-inf)\'');0.000;;
+U;1;(Weather_Condition, 'Freezing Rain');0.000;;
+U;1;(Weather_Condition, Hail);0.000;;
+U;1;(Weather_Condition, 'Snow Grains');0.000;;
+U;1;(Weather_Condition, 'Showers in the Vicinity');0.000;;
+D;0;(Weather_Condition, 'Ice Pellets');0.001;9.370;

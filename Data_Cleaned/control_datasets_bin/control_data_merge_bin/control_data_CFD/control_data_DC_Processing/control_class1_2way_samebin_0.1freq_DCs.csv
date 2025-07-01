@@ -1,0 +1,6 @@
+Type,Class,Variable1,Variable2,Frequency
+D,0,"(Distance(mi), '\'(0.5225-inf)\'')","(Sunrise_Sunset, Night)",0.102
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Crossing, True)",0.142
+D,0,"(Pressure(in), '\'(29.815-30.055]\'')","(Sunrise_Sunset, Night)",0.109
+D,1,"(Distance(mi), '\'(-inf-0.0135]\'')","(Traffic_Signal, True)",0.248
+D,1,"(Pressure(in), '\'(-inf-29.815]\'')","(Traffic_Signal, True)",0.12

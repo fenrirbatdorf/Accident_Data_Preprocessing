@@ -1,0 +1,13 @@
+Type;Class;Variable1;Frequency;Frequency_Difference;
+U;0;(Weather_Condition, Sleet);0.000;;
+U;1;(Visibility(mi), '\'(10.25-inf)\'');0.000;;
+U;0;(Weather_Condition, 'Light Snow and Sleet');0.000;;
+U;0;(Weather_Condition, Hail);0.000;;
+U;0;(Weather_Condition, 'Freezing Rain');0.000;;
+U;0;(Weather_Condition, 'Snow Grains');0.000;;
+U;0;(Weather_Condition, 'Showers in the Vicinity');0.000;;
+D;0;(Stop, True);0.020;7.607;
+D;0;(Station, True);0.019;7.316;
+D;0;(Amenity, True);0.011;15.335;
+D;0;(Street, on_off_ramp);0.006;21.513;
+D;1;(Weather_Condition, 'Ice Pellets');0.001;10.319;

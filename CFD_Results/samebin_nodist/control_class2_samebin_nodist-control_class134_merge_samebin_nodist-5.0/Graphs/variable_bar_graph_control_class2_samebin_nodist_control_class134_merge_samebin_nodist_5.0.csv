@@ -1,0 +1,17 @@
+Variable Name,1-way Count,2-way Count,3-way Count,4-way Count,5-way Count,6-way Count
+Street,0,46,799
+Temperature(F),0,13,731
+Humidity(%),0,11,787
+Pressure(in),0,6,355
+Visibility(mi),1,2,221
+Wind_Direction,0,39,1442
+Weather_Condition,6,126,1842
+Amenity,0,9,258
+Crossing,0,8,253
+Junction,0,4,188
+Railway,0,22,144
+Station,0,15,211
+Stop,0,5,208
+Traffic_Calming,0,9,271
+Traffic_Signal,0,6,198
+Sunrise_Sunset,0,5,177
