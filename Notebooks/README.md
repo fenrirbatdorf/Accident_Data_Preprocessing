@@ -5,7 +5,11 @@ This repo is for Fenrir Badorf's 2025 NIST SURF summer project, examining if CFD
 
 The source file for this project can be found at: https://smoosavi.org/datasets/us_accidents. A subset of this data containing only Maryland accidents is included in this repo, in the folder Data_Raw -> full_data.
 
-FILES:
+NOTEBOOK FILES:
+
+2_Class_Splitter: notebook used to convert the 4 initial severity classes into 2 classes, 0 and 1, 0 combines classes 1/2, and 1 combines classes 3/4.
+
+CSV_Subsetter: Notebook used to filter and subset CFD outputs by different frequencies of occurrances, and output the subset as a new CSV
 
 Data_Initial_Split: The file that serves as the initial train test split of the data, to prevent information from the test data to affect the training data.
 
@@ -15,9 +19,18 @@ Fenrir_Feature_Engineer: The file needed to preprocess the full traffic dataset 
 
 Files beginning with OLD: Previous drafts of programs to use that are not in use for the current version of the experiment.
 
+one_vs_many_2class: A better version of 2_Class_Splitter that merges classes 1-4 into 2 classes, but keeps all of them as one dataset without dividing into 2 smaller sets
+
+One_Vs_Many: Notebook to take the version of the dataset with 4 classes, and split into 4 sets of 1 vs many datasets.
+
 PCA_Process: A hands-on learning file to get used to PCA in Python.
 
 Pipeline: An as-of-yet unfinished and unused pipeline for the model, to train on the various versions of the reduced dataset.
+
+
+
+
+
 
 PROCESS: An ongoing to-do of versions of the dataset that have been or will be created, as well as any steps needed to do each part of the experiment.
 
