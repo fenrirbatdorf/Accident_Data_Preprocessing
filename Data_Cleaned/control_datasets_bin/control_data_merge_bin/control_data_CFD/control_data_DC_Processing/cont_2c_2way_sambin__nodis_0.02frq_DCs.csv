@@ -1,0 +1,7 @@
+Type,Class,Variable1,Variable2,Frequency
+D,1,"(Weather_Condition, Clear)","(Junction, True)",0.038
+D,1,"(Street, Interstate)","(Weather_Condition, Clear)",0.034
+D,1,"(Street, Interstate)","(Weather_Condition, Overcast)",0.031
+D,1,"(Weather_Condition, Overcast)","(Junction, True)",0.027
+D,1,"(Street, Beltway)","(Weather_Condition, Overcast)",0.021
+D,1,"(Street, Interstate)","(Weather_Condition, 'Scattered Clouds')",0.02

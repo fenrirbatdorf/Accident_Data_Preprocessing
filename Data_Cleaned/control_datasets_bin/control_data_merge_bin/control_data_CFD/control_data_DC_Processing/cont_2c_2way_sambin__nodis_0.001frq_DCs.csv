@@ -1,0 +1,31 @@
+Type, Class, Variable1                             , Variable2                                , Frequency
+U   ,     0, "(Humidity(%), '\'(43.5-55.5]\'')"    , "(Railway, True)"                        ,     0.001
+U   ,     1, "(Temperature(F), '\'(76.9-inf)\'')"  , "(Weather_Condition, Thunderstorm)"      ,     0.001
+D   ,     1, "(Weather_Condition, Clear)"          , "(Junction, True)"                       ,     0.038
+D   ,     1, "(Street, Interstate)"                , "(Weather_Condition, Clear)"             ,     0.034
+D   ,     1, "(Street, Interstate)"                , "(Weather_Condition, Overcast)"          ,     0.031
+D   ,     1, "(Weather_Condition, Overcast)"       , "(Junction, True)"                       ,     0.027
+D   ,     1, "(Street, Beltway)"                   , "(Weather_Condition, Overcast)"          ,     0.021
+D   ,     1, "(Street, Interstate)"                , "(Weather_Condition, 'Scattered Clouds')",     0.02
+D   ,     1, "(Street, Beltway)"                   , "(Weather_Condition, 'Scattered Clouds')",     0.009
+D   ,     1, "(Pressure(in), '\'(-inf-29.815]\'')" , "(Weather_Condition, 'Scattered Clouds')",     0.008
+D   ,     0, "(Amenity, True)"                     , "(Crossing, True)"                       ,     0.004
+D   ,     0, "(Humidity(%), '\'(93.5-inf)\'')"     , "(Weather_Condition, 'Wintry Mix')"      ,     0.002
+D   ,     0, "(Street, on_off_ramp)"               , "(Junction, True)"                       ,     0.002
+D   ,     0, "(Street, large_local)"               , "(Railway, True)"                        ,     0.002
+D   ,     0, "(Weather_Condition, Fair)"           , "(Railway, True)"                        ,     0.002
+D   ,     0, "(Amenity, True)"                     , "(Station, True)"                        ,     0.002
+D   ,     0, "(Wind_Direction, W)"                 , "(Station, True)"                        ,     0.002
+D   ,     0, "(Street, on_off_ramp)"               , "(Weather_Condition, Cloudy)"            ,     0.002
+D   ,     0, "(Railway, True)"                     , "(Station, True)"                        ,     0.001
+D   ,     0, "(Wind_Direction, S)"                 , "(Weather_Condition, Fog)"               ,     0.001
+D   ,     0, "(Street, on_off_ramp)"               , "(Wind_Direction, NW)"                   ,     0.001
+D   ,     0, "(Street, large_local)"               , "(Weather_Condition, 'Wintry Mix')"      ,     0.001
+D   ,     0, "(Humidity(%), '\'(-inf-43.5]\'')"    , "(Traffic_Calming, True)"                ,     0.001
+D   ,     0, "(Station, True)"                     , "(Traffic_Calming, True)"                ,     0.001
+D   ,     0, "(Railway, True)"                     , "(Traffic_Signal, True)"                 ,     0.001
+D   ,     0, "(Wind_Direction, Calm)"              , "(Weather_Condition, 'Wintry Mix')"      ,     0.001
+D   ,     1, "(Temperature(F), '\'(46.1-56.9]\'')" , "(Weather_Condition, unknown)"           ,     0.001
+D   ,     0, "(Street, on_off_ramp)"               , "(Temperature(F), '\'(46.1-56.9]\'')"    ,     0.001
+D   ,     0, "(Temperature(F), '\'(36.95-46.1]\'')", "(Railway, True)"                        ,     0.001
+D   ,     0, "(Wind_Direction, NW)"                , "(Weather_Condition, 'Wintry Mix')"      ,     0.001
