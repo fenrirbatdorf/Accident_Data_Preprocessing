@@ -1,0 +1,6 @@
+Type;Class;Variable1;Frequency;Frequency_Difference;
+U;0;(Weather_Condition, 'Light Snow and Sleet');0.000;;
+U;0;(Weather_Condition, Sleet);0.000;;
+U;0;(Weather_Condition, Hail);0.000;;
+U;0;(Weather_Condition, 'Freezing Rain');0.000;;
+D;1;(Weather_Condition, 'Ice Pellets');0.001;5.499;

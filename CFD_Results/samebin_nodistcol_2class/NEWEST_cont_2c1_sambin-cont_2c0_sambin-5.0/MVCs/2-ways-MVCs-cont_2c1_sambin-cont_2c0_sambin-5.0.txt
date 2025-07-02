@@ -1,0 +1,959 @@
+('local', "'\\'(10.25-inf)\\''") values for ['Street', 'Visibility(mi)'] is not present in the class file
+('on_off_ramp', "'\\'(10.25-inf)\\''") values for ['Street', 'Visibility(mi)'] is not present in the class file
+('Beltway', "'\\'(10.25-inf)\\''") values for ['Street', 'Visibility(mi)'] is not present in the class file
+('Tunnel', "'\\'(10.25-inf)\\''") values for ['Street', 'Visibility(mi)'] is not present in the class file
+('on_off_ramp', 'unknown') values for ['Street', 'Wind_Direction'] is not present in the class file
+('on_off_ramp', 'E') values for ['Street', 'Wind_Direction'] is not present in the class file
+('Tunnel', 'unknown') values for ['Street', 'Wind_Direction'] is not present in the class file
+('local', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('local', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('local', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('local', "'Ice Pellets'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('local', "'Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', "'Heavy Rain'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', 'Snow') values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', "'Wintry Mix'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', 'Haze') values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', "'Light Freezing Rain'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', 'unknown') values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', 'Clear') values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', 'Rain') values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', 'Thunderstorms') values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', 'Thunderstorm') values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', "'Scattered Clouds'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', "'Ice Pellets'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', "'Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', 'Windy') values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', 'Overcast') values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', 'Thunder') values for ['Street', 'Weather_Condition'] is not present in the class file
+('Beltway', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Beltway', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Beltway', 'Thunderstorm') values for ['Street', 'Weather_Condition'] is not present in the class file
+('Beltway', "'Ice Pellets'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Beltway', "'Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', "'Heavy Rain'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', 'Fog') values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', "'Wintry Mix'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', 'Haze') values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', 'unknown') values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', 'Rain') values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', 'Thunderstorm') values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', "'Ice Pellets'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', "'Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Tunnel', 'Thunder') values for ['Street', 'Weather_Condition'] is not present in the class file
+('Highway', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Highway', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Highway', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('Highway', 'Thunderstorm') values for ['Street', 'Weather_Condition'] is not present in the class file
+('large_local', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('large_local', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('large_local', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('large_local', "'Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the class file
+('on_off_ramp', True) values for ['Street', 'Amenity'] is not present in the class file
+('Beltway', True) values for ['Street', 'Amenity'] is not present in the class file
+('Tunnel', True) values for ['Street', 'Amenity'] is not present in the class file
+('Interstate', True) values for ['Street', 'Amenity'] is not present in the class file
+('on_off_ramp', True) values for ['Street', 'Crossing'] is not present in the class file
+('Beltway', True) values for ['Street', 'Crossing'] is not present in the class file
+('Tunnel', True) values for ['Street', 'Crossing'] is not present in the class file
+('on_off_ramp', True) values for ['Street', 'Railway'] is not present in the class file
+('Beltway', True) values for ['Street', 'Railway'] is not present in the class file
+('Tunnel', True) values for ['Street', 'Railway'] is not present in the class file
+('on_off_ramp', True) values for ['Street', 'Station'] is not present in the class file
+('Beltway', True) values for ['Street', 'Station'] is not present in the class file
+('Tunnel', True) values for ['Street', 'Station'] is not present in the class file
+('Interstate', True) values for ['Street', 'Station'] is not present in the class file
+('on_off_ramp', True) values for ['Street', 'Stop'] is not present in the class file
+('Beltway', True) values for ['Street', 'Stop'] is not present in the class file
+('Tunnel', True) values for ['Street', 'Stop'] is not present in the class file
+('Interstate', True) values for ['Street', 'Stop'] is not present in the class file
+('on_off_ramp', True) values for ['Street', 'Traffic_Calming'] is not present in the class file
+('Beltway', True) values for ['Street', 'Traffic_Calming'] is not present in the class file
+('Tunnel', True) values for ['Street', 'Traffic_Calming'] is not present in the class file
+('on_off_ramp', True) values for ['Street', 'Traffic_Signal'] is not present in the class file
+("'\\'(-inf-36.95]\\''", "'\\'(10.25-inf)\\''") values for ['Temperature(F)', 'Visibility(mi)'] is not present in the class file
+("'\\'(76.9-inf)\\''", "'\\'(10.25-inf)\\''") values for ['Temperature(F)', 'Visibility(mi)'] is not present in the class file
+("'\\'(36.95-46.3]\\''", "'\\'(10.25-inf)\\''") values for ['Temperature(F)', 'Visibility(mi)'] is not present in the class file
+("'\\'(67.4-76.9]\\''", "'Small Hail'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(67.4-76.9]\\''", 'Snow') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(67.4-76.9]\\''", "'Light Freezing Fog'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(67.4-76.9]\\''", "'Wintry Mix'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(67.4-76.9]\\''", "'Heavy Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(67.4-76.9]\\''", "'Light Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(67.4-76.9]\\''", "'Ice Pellets'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(67.4-76.9]\\''", "'Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.9-67.4]\\''", "'Small Hail'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.9-67.4]\\''", 'Snow') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.9-67.4]\\''", "'Light Freezing Fog'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.9-67.4]\\''", "'Wintry Mix'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.9-67.4]\\''", "'Heavy Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.9-67.4]\\''", "'Light Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.9-67.4]\\''", 'Thunderstorm') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.9-67.4]\\''", "'Ice Pellets'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.9-67.4]\\''", "'Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-36.95]\\''", 'Thunderstorms') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-36.95]\\''", 'Thunderstorm') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-36.95]\\''", 'Thunder') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(76.9-inf)\\''", "'Small Hail'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(76.9-inf)\\''", 'Snow') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(76.9-inf)\\''", 'Fog') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(76.9-inf)\\''", "'Light Freezing Fog'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(76.9-inf)\\''", "'Wintry Mix'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(76.9-inf)\\''", "'Heavy Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(76.9-inf)\\''", "'Light Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(76.9-inf)\\''", "'Ice Pellets'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(76.9-inf)\\''", "'Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(36.95-46.3]\\''", "'Small Hail'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(36.95-46.3]\\''", "'Light Freezing Fog'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(36.95-46.3]\\''", "'Wintry Mix'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(36.95-46.3]\\''", "'Heavy Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(36.95-46.3]\\''", "'Light Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(36.95-46.3]\\''", 'Thunderstorms') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(36.95-46.3]\\''", 'Thunderstorm') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(36.95-46.3]\\''", "'Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(36.95-46.3]\\''", 'Thunder') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(46.3-56.9]\\''", "'Small Hail'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(46.3-56.9]\\''", 'Snow') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(46.3-56.9]\\''", "'Light Freezing Fog'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(46.3-56.9]\\''", "'Wintry Mix'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(46.3-56.9]\\''", "'Heavy Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(46.3-56.9]\\''", "'Light Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(46.3-56.9]\\''", 'Thunderstorm') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(46.3-56.9]\\''", "'Ice Pellets'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(46.3-56.9]\\''", "'Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(46.3-56.9]\\''", 'Thunder') values for ['Temperature(F)', 'Weather_Condition'] is not present in the class file
+("'\\'(69.5-83.5]\\''", "'\\'(10.25-inf)\\''") values for ['Humidity(%)', 'Visibility(mi)'] is not present in the class file
+("'\\'(44.5-56.5]\\''", "'\\'(10.25-inf)\\''") values for ['Humidity(%)', 'Visibility(mi)'] is not present in the class file
+("'\\'(83.5-93.5]\\''", "'\\'(10.25-inf)\\''") values for ['Humidity(%)', 'Visibility(mi)'] is not present in the class file
+("'\\'(56.5-69.5]\\''", "'Heavy Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.5-69.5]\\''", "'Small Hail'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.5-69.5]\\''", 'Fog') values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.5-69.5]\\''", "'Light Freezing Fog'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.5-69.5]\\''", "'Wintry Mix'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.5-69.5]\\''", "'Heavy Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.5-69.5]\\''", "'Light Freezing Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.5-69.5]\\''", "'Ice Pellets'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(56.5-69.5]\\''", "'Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", "'Heavy Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", "'Small Hail'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", 'Fog') values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", "'Light Freezing Fog'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", "'Wintry Mix'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", "'Heavy Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", "'Light Freezing Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", 'Thunderstorms') values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", 'Thunderstorm') values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", "'Ice Pellets'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", "'Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-44.5]\\''", 'Thunder') values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(69.5-83.5]\\''", "'Small Hail'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(69.5-83.5]\\''", "'Light Freezing Fog'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(69.5-83.5]\\''", "'Wintry Mix'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(69.5-83.5]\\''", "'Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(44.5-56.5]\\''", "'Heavy Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(44.5-56.5]\\''", "'Small Hail'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(44.5-56.5]\\''", 'Fog') values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(44.5-56.5]\\''", "'Light Freezing Fog'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(44.5-56.5]\\''", "'Wintry Mix'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(44.5-56.5]\\''", "'Heavy Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(44.5-56.5]\\''", "'Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(83.5-93.5]\\''", "'Heavy Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(93.5-inf)\\''", "'Small Hail'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(93.5-inf)\\''", "'Heavy Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the class file
+("'\\'(30.065-inf)\\''", "'\\'(10.25-inf)\\''") values for ['Pressure(in)', 'Visibility(mi)'] is not present in the class file
+("'\\'(29.835-30.065]\\''", "'Small Hail'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the class file
+("'\\'(29.835-30.065]\\''", "'Heavy Sleet'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the class file
+("'\\'(30.065-inf)\\''", 'Thunderstorm') values for ['Pressure(in)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-29.835]\\''", "'Small Hail'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-29.835]\\''", "'Light Freezing Fog'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-29.835]\\''", "'Heavy Sleet'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the class file
+("'\\'(-inf-29.835]\\''", "'Snow and Sleet'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Variable') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'NE') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'SE') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'S') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'W') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'unknown') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'E') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'N') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the class file
+("'\\'(10.25-inf)\\''", "'Small Hail'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", "'Mostly Cloudy'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Snow') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Fair') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Fog') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Cloudy') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", "'Light Freezing Fog'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", "'Wintry Mix'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", "'Heavy Sleet'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Haze') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", "'Light Freezing Rain'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'unknown') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Clear') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Rain') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Thunderstorms') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Thunderstorm') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", "'Scattered Clouds'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", "'Ice Pellets'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", "'Snow and Sleet'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Windy') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Overcast') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Thunder') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(9.5-10.25]\\''", "'Small Hail'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(9.5-10.25]\\''", "'Light Freezing Fog'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(9.5-10.25]\\''", "'Heavy Sleet'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(9.5-10.25]\\''", "'Ice Pellets'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(9.5-10.25]\\''", "'Snow and Sleet'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the class file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Amenity'] is not present in the class file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Crossing'] is not present in the class file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Junction'] is not present in the class file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Railway'] is not present in the class file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Station'] is not present in the class file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Stop'] is not present in the class file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Traffic_Calming'] is not present in the class file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Traffic_Signal'] is not present in the class file
+("'\\'(10.25-inf)\\''", 'Night') values for ['Visibility(mi)', 'Sunrise_Sunset'] is not present in the class file
+('Variable', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Variable', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Variable', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Variable', "'Light Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Variable', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Variable', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Variable', 'Windy') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('NE', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('NE', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('SE', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('SE', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('SE', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('S', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('S', "'Wintry Mix'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('S', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('S', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('W', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('W', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('W', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('W', "'Light Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('W', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('W', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('W', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Calm', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Calm', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Calm', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Calm', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Calm', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Calm', 'Windy') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('Calm', 'Thunder') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', "'Heavy Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', 'Snow') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', 'Fog') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', "'Wintry Mix'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', 'Haze') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', "'Light Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', 'Clear') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', 'Rain') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', 'Thunderstorms') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', "'Scattered Clouds'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', 'Windy') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', 'Overcast') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', 'Thunder') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('NW', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('NW', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('NW', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('NW', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('NW', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('E', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('E', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('E', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('E', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('E', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('E', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('E', 'Thunder') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('SW', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('SW', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('N', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('N', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('N', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('N', 'Thunder') values for ['Wind_Direction', 'Weather_Condition'] is not present in the class file
+('unknown', True) values for ['Wind_Direction', 'Amenity'] is not present in the class file
+('unknown', True) values for ['Wind_Direction', 'Crossing'] is not present in the class file
+('Variable', True) values for ['Wind_Direction', 'Railway'] is not present in the class file
+('W', True) values for ['Wind_Direction', 'Railway'] is not present in the class file
+('unknown', True) values for ['Wind_Direction', 'Railway'] is not present in the class file
+('unknown', True) values for ['Wind_Direction', 'Station'] is not present in the class file
+('unknown', True) values for ['Wind_Direction', 'Stop'] is not present in the class file
+('NE', True) values for ['Wind_Direction', 'Traffic_Calming'] is not present in the class file
+('unknown', True) values for ['Wind_Direction', 'Traffic_Calming'] is not present in the class file
+('unknown', True) values for ['Wind_Direction', 'Traffic_Signal'] is not present in the class file
+("'Heavy Rain'", True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+("'Small Hail'", True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+('Snow', True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+("'Wintry Mix'", True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+("'Light Freezing Rain'", True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+('unknown', True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+('Rain', True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+('Thunderstorms', True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+('Thunderstorm', True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+('Windy', True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+('Thunder', True) values for ['Weather_Condition', 'Amenity'] is not present in the class file
+("'Heavy Rain'", True) values for ['Weather_Condition', 'Crossing'] is not present in the class file
+("'Small Hail'", True) values for ['Weather_Condition', 'Crossing'] is not present in the class file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Crossing'] is not present in the class file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Crossing'] is not present in the class file
+("'Light Freezing Rain'", True) values for ['Weather_Condition', 'Crossing'] is not present in the class file
+('Thunderstorms', True) values for ['Weather_Condition', 'Crossing'] is not present in the class file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Crossing'] is not present in the class file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Crossing'] is not present in the class file
+('Windy', True) values for ['Weather_Condition', 'Crossing'] is not present in the class file
+('Thunder', True) values for ['Weather_Condition', 'Crossing'] is not present in the class file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Junction'] is not present in the class file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Junction'] is not present in the class file
+('Thunderstorm', True) values for ['Weather_Condition', 'Junction'] is not present in the class file
+("'Heavy Rain'", True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+("'Small Hail'", True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+('Fog', True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+("'Wintry Mix'", True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+('Haze', True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+("'Light Freezing Rain'", True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+('unknown', True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+('Rain', True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+('Thunderstorms', True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+('Thunderstorm', True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+('Drizzle', True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+('Windy', True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+('Thunder', True) values for ['Weather_Condition', 'Railway'] is not present in the class file
+("'Small Hail'", True) values for ['Weather_Condition', 'Station'] is not present in the class file
+('Snow', True) values for ['Weather_Condition', 'Station'] is not present in the class file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Station'] is not present in the class file
+("'Wintry Mix'", True) values for ['Weather_Condition', 'Station'] is not present in the class file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Station'] is not present in the class file
+("'Light Freezing Rain'", True) values for ['Weather_Condition', 'Station'] is not present in the class file
+('unknown', True) values for ['Weather_Condition', 'Station'] is not present in the class file
+('Rain', True) values for ['Weather_Condition', 'Station'] is not present in the class file
+('Thunderstorms', True) values for ['Weather_Condition', 'Station'] is not present in the class file
+('Thunderstorm', True) values for ['Weather_Condition', 'Station'] is not present in the class file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Station'] is not present in the class file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Station'] is not present in the class file
+('Windy', True) values for ['Weather_Condition', 'Station'] is not present in the class file
+('Thunder', True) values for ['Weather_Condition', 'Station'] is not present in the class file
+("'Small Hail'", True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+("'Wintry Mix'", True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+('Haze', True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+("'Light Freezing Rain'", True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+('Thunderstorms', True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+('Thunderstorm', True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+('Thunder', True) values for ['Weather_Condition', 'Stop'] is not present in the class file
+("'Heavy Rain'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+("'Small Hail'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+('Snow', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+("'Wintry Mix'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+('Haze', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+("'Light Freezing Rain'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+('unknown', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+('Rain', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+('Thunderstorms', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+('Thunderstorm', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+('Windy', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+('Thunder', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the class file
+("'Small Hail'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the class file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the class file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the class file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the class file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the class file
+("'Small Hail'", 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the class file
+("'Light Freezing Fog'", 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the class file
+("'Heavy Sleet'", 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the class file
+('Thunderstorm', 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the class file
+("'Snow and Sleet'", 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the class file
+(True, True) values for ['Amenity', 'Junction'] is not present in the class file
+(True, True) values for ['Junction', 'Railway'] is not present in the class file
+(True, True) values for ['Junction', 'Station'] is not present in the class file
+(True, True) values for ['Junction', 'Stop'] is not present in the class file
+('local', "'\\'(10.25-inf)\\''") values for ['Street', 'Visibility(mi)'] is not present in the nonclass file
+('on_off_ramp', "'\\'(10.25-inf)\\''") values for ['Street', 'Visibility(mi)'] is not present in the nonclass file
+('Beltway', "'\\'(10.25-inf)\\''") values for ['Street', 'Visibility(mi)'] is not present in the nonclass file
+('Tunnel', "'\\'(10.25-inf)\\''") values for ['Street', 'Visibility(mi)'] is not present in the nonclass file
+('large_local', "'\\'(10.25-inf)\\''") values for ['Street', 'Visibility(mi)'] is not present in the nonclass file
+('Interstate', "'\\'(10.25-inf)\\''") values for ['Street', 'Visibility(mi)'] is not present in the nonclass file
+('on_off_ramp', 'unknown') values for ['Street', 'Wind_Direction'] is not present in the nonclass file
+('Tunnel', 'unknown') values for ['Street', 'Wind_Direction'] is not present in the nonclass file
+('local', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('local', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('local', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('local', 'Sleet') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('local', "'Ice Pellets'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('local', "'Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', "'Heavy Rain'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', 'Haze') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', 'Sleet') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', "'Light Freezing Rain'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', 'Clear') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', 'Rain') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', 'Thunderstorms') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', 'Thunderstorm') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', "'Scattered Clouds'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', "'Ice Pellets'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', "'Freezing Rain'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', 'Windy') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', 'Overcast') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', "'Light Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', 'Hail') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', 'Haze') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', 'Sleet') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', 'unknown') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', 'Thunderstorms') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', 'Thunderstorm') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', "'Ice Pellets'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', "'Freezing Rain'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', "'Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Beltway', 'Hail') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', "'Heavy Rain'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', 'Snow') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', 'Haze') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', 'Sleet') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', "'Light Freezing Rain'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', 'unknown') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', 'Thunderstorms') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', 'Thunderstorm') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', "'Scattered Clouds'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', "'Ice Pellets'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', "'Freezing Rain'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', "'Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', 'Windy') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', "'Light Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', 'Hail') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Tunnel', 'Thunder') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Highway', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Highway', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Highway', 'Sleet') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Highway', "'Ice Pellets'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Highway', "'Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Highway', "'Light Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Highway', 'Hail') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('large_local', "'Small Hail'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('large_local', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('large_local', "'Heavy Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('large_local', 'Sleet') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('large_local', "'Freezing Rain'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('large_local', "'Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('large_local', "'Light Snow and Sleet'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('large_local', 'Hail') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Interstate', "'Light Freezing Fog'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Interstate', 'Thunderstorm') values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('Interstate', "'Freezing Rain'") values for ['Street', 'Weather_Condition'] is not present in the nonclass file
+('on_off_ramp', True) values for ['Street', 'Amenity'] is not present in the nonclass file
+('Beltway', True) values for ['Street', 'Amenity'] is not present in the nonclass file
+('Tunnel', True) values for ['Street', 'Amenity'] is not present in the nonclass file
+('Interstate', True) values for ['Street', 'Amenity'] is not present in the nonclass file
+('Beltway', True) values for ['Street', 'Crossing'] is not present in the nonclass file
+('Tunnel', True) values for ['Street', 'Crossing'] is not present in the nonclass file
+('on_off_ramp', True) values for ['Street', 'Railway'] is not present in the nonclass file
+('Beltway', True) values for ['Street', 'Railway'] is not present in the nonclass file
+('Tunnel', True) values for ['Street', 'Railway'] is not present in the nonclass file
+('on_off_ramp', True) values for ['Street', 'Station'] is not present in the nonclass file
+('Beltway', True) values for ['Street', 'Station'] is not present in the nonclass file
+('Tunnel', True) values for ['Street', 'Station'] is not present in the nonclass file
+('on_off_ramp', True) values for ['Street', 'Stop'] is not present in the nonclass file
+('Beltway', True) values for ['Street', 'Stop'] is not present in the nonclass file
+('Tunnel', True) values for ['Street', 'Stop'] is not present in the nonclass file
+('Interstate', True) values for ['Street', 'Stop'] is not present in the nonclass file
+('on_off_ramp', True) values for ['Street', 'Traffic_Calming'] is not present in the nonclass file
+('Beltway', True) values for ['Street', 'Traffic_Calming'] is not present in the nonclass file
+('Tunnel', True) values for ['Street', 'Traffic_Calming'] is not present in the nonclass file
+('Beltway', True) values for ['Street', 'Traffic_Signal'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", "'\\'(10.25-inf)\\''") values for ['Temperature(F)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(-inf-36.95]\\''", "'\\'(10.25-inf)\\''") values for ['Temperature(F)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", "'\\'(10.25-inf)\\''") values for ['Temperature(F)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", "'\\'(10.25-inf)\\''") values for ['Temperature(F)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", "'\\'(10.25-inf)\\''") values for ['Temperature(F)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", "'Small Hail'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", 'Snow') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", "'Light Freezing Fog'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", "'Wintry Mix'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", "'Heavy Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", 'Sleet') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", "'Light Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", "'Ice Pellets'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", "'Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", "'Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", "'Light Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", 'Hail') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.9-67.4]\\''", 'Thunder') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", "'Small Hail'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", 'Snow') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", "'Light Freezing Fog'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", "'Wintry Mix'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", "'Heavy Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", 'Sleet') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", "'Light Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", 'Thunderstorm') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", "'Ice Pellets'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", "'Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", "'Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(67.4-76.9]\\''", "'Light Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-36.95]\\''", 'Thunderstorm') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-36.95]\\''", 'Hail') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-36.95]\\''", 'Thunder') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", "'Small Hail'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", 'Snow') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", "'Light Freezing Fog'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", "'Wintry Mix'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", "'Heavy Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", 'Sleet') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", "'Light Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", "'Ice Pellets'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", "'Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", "'Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", "'Light Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(76.9-inf)\\''", 'Hail') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", "'Small Hail'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", "'Light Freezing Fog'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", "'Heavy Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", 'Sleet') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", "'Light Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", 'Thunderstorms') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", 'Thunderstorm') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", "'Ice Pellets'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", "'Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", "'Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", "'Light Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", 'Hail') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(36.95-46.3]\\''", 'Thunder') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", "'Small Hail'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", 'Snow') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", "'Light Freezing Fog'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", "'Wintry Mix'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", "'Heavy Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", 'Sleet') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", "'Light Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", 'Thunderstorm') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", "'Ice Pellets'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", "'Freezing Rain'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", "'Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", "'Light Snow and Sleet'") values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(46.3-56.9]\\''", 'Hail') values for ['Temperature(F)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'\\'(10.25-inf)\\''") values for ['Humidity(%)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'\\'(10.25-inf)\\''") values for ['Humidity(%)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", "'\\'(10.25-inf)\\''") values for ['Humidity(%)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'\\'(10.25-inf)\\''") values for ['Humidity(%)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(83.5-93.5]\\''", "'\\'(10.25-inf)\\''") values for ['Humidity(%)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'Heavy Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'Small Hail'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", 'Fog') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'Light Freezing Fog'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'Wintry Mix'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'Heavy Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'Light Freezing Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'Ice Pellets'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'Freezing Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", "'Light Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(56.5-69.5]\\''", 'Hail') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'Heavy Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'Small Hail'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", 'Fog') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'Light Freezing Fog'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'Wintry Mix'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'Heavy Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", 'Sleet') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'Light Freezing Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", 'Rain') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", 'Thunderstorms') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", 'Thunderstorm') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'Ice Pellets'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'Freezing Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", "'Light Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", 'Hail') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-44.5]\\''", 'Thunder') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", "'Heavy Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", "'Small Hail'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", "'Light Freezing Fog'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", "'Heavy Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", 'Sleet') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", 'Thunderstorm') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", "'Freezing Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", "'Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", "'Light Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(69.5-83.5]\\''", 'Hail') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'Heavy Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'Small Hail'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", 'Fog') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'Light Freezing Fog'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'Wintry Mix'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'Heavy Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", 'Sleet') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'Light Freezing Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", 'Rain') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", 'Thunderstorm') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'Ice Pellets'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'Freezing Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", "'Light Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(44.5-56.5]\\''", 'Hail') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(83.5-93.5]\\''", "'Light Freezing Fog'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(83.5-93.5]\\''", 'Thunderstorm') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(93.5-inf)\\''", "'Heavy Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(93.5-inf)\\''", 'Sleet') values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(93.5-inf)\\''", "'Ice Pellets'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(93.5-inf)\\''", "'Freezing Rain'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(93.5-inf)\\''", "'Light Snow and Sleet'") values for ['Humidity(%)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(30.065-inf)\\''", "'\\'(10.25-inf)\\''") values for ['Pressure(in)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(-inf-29.835]\\''", "'\\'(10.25-inf)\\''") values for ['Pressure(in)', 'Visibility(mi)'] is not present in the nonclass file
+("'\\'(29.835-30.065]\\''", "'Small Hail'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(29.835-30.065]\\''", "'Light Freezing Fog'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(29.835-30.065]\\''", "'Heavy Sleet'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(29.835-30.065]\\''", 'Sleet') values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(29.835-30.065]\\''", "'Ice Pellets'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(29.835-30.065]\\''", "'Freezing Rain'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(30.065-inf)\\''", "'Light Freezing Fog'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(30.065-inf)\\''", 'Thunderstorm') values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(30.065-inf)\\''", "'Light Snow and Sleet'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(30.065-inf)\\''", 'Hail') values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-29.835]\\''", "'Small Hail'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-29.835]\\''", "'Heavy Sleet'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-29.835]\\''", 'Sleet') values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-29.835]\\''", 'Thunderstorm') values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-29.835]\\''", "'Ice Pellets'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-29.835]\\''", "'Freezing Rain'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-29.835]\\''", "'Snow and Sleet'") values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(-inf-29.835]\\''", 'Hail') values for ['Pressure(in)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Variable') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'NE') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'SE') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'S') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'W') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Calm') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'unknown') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'NW') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'E') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'N') values for ['Visibility(mi)', 'Wind_Direction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Heavy Rain'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Small Hail'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Mostly Cloudy'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Snow') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Fair') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Partly Cloudy'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Fog') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Cloudy') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Light Freezing Fog'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Wintry Mix'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Heavy Sleet'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Haze') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Sleet') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Light Freezing Rain'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'unknown') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Clear') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Rain') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Thunderstorms') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Thunderstorm') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Scattered Clouds'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Ice Pellets'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Freezing Rain'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Snow and Sleet'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Windy') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Overcast') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", "'Light Snow and Sleet'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Hail') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Thunder') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", "'Heavy Rain'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", "'Small Hail'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", "'Light Freezing Fog'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", "'Wintry Mix'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", "'Heavy Sleet'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", 'Haze') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", 'Sleet') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", "'Ice Pellets'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", "'Freezing Rain'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", "'Snow and Sleet'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", "'Light Snow and Sleet'") values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(9.5-10.25]\\''", 'Hail') values for ['Visibility(mi)', 'Weather_Condition'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Amenity'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Crossing'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", False) values for ['Visibility(mi)', 'Junction'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Railway'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Station'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Stop'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Traffic_Calming'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", True) values for ['Visibility(mi)', 'Traffic_Signal'] is not present in the nonclass file
+("'\\'(10.25-inf)\\''", 'Night') values for ['Visibility(mi)', 'Sunrise_Sunset'] is not present in the nonclass file
+('Variable', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', 'Sleet') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', "'Light Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', "'Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', 'Windy') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', "'Light Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Variable', 'Hail') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NE', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NE', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NE', 'Hail') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SE', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SE', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SE', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SE', 'Sleet') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SE', "'Light Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SE', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SE', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SE', "'Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SE', "'Light Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', "'Wintry Mix'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', 'Sleet') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', "'Light Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', "'Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', "'Light Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('S', 'Hail') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', "'Wintry Mix'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', 'Sleet') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', "'Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', "'Light Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('W', 'Hail') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Calm', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Calm', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Calm', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Calm', 'Sleet') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Calm', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Calm', "'Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Calm', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Calm', 'Windy') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('Calm', "'Light Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Heavy Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Snow') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Wintry Mix'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Haze') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Sleet') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Light Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'unknown') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Clear') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Rain') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Thunderstorms') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Scattered Clouds'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Drizzle') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Windy') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Overcast') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', "'Light Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Hail') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', 'Thunder') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NW', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NW', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NW', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NW', 'Sleet') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NW', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NW', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NW', "'Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NW', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NW', "'Light Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('NW', 'Hail') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('E', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('E', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('E', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('E', 'Sleet') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('E', 'Thunderstorm') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('E', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('E', "'Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('E', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('E', "'Light Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('E', 'Hail') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SW', "'Small Hail'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SW', "'Light Freezing Fog'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SW', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SW', 'Sleet') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SW', "'Light Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SW', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SW', "'Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SW', "'Light Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('SW', 'Hail') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('N', "'Heavy Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('N', 'Sleet') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('N', 'unknown') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('N', "'Ice Pellets'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('N', "'Freezing Rain'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('N', "'Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('N', "'Light Snow and Sleet'") values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('N', 'Hail') values for ['Wind_Direction', 'Weather_Condition'] is not present in the nonclass file
+('unknown', True) values for ['Wind_Direction', 'Amenity'] is not present in the nonclass file
+('unknown', True) values for ['Wind_Direction', 'Railway'] is not present in the nonclass file
+('unknown', True) values for ['Wind_Direction', 'Station'] is not present in the nonclass file
+('unknown', True) values for ['Wind_Direction', 'Stop'] is not present in the nonclass file
+('unknown', True) values for ['Wind_Direction', 'Traffic_Calming'] is not present in the nonclass file
+("'Heavy Rain'", True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+("'Small Hail'", True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+('Snow', True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+("'Wintry Mix'", True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+('Sleet', True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+("'Light Freezing Rain'", True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+('unknown', True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+('Thunderstorms', True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+('Thunderstorm', True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+("'Freezing Rain'", True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+("'Light Snow and Sleet'", True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+('Hail', True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+('Thunder', True) values for ['Weather_Condition', 'Amenity'] is not present in the nonclass file
+("'Small Hail'", True) values for ['Weather_Condition', 'Crossing'] is not present in the nonclass file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Crossing'] is not present in the nonclass file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Crossing'] is not present in the nonclass file
+('Sleet', True) values for ['Weather_Condition', 'Crossing'] is not present in the nonclass file
+('Thunderstorm', True) values for ['Weather_Condition', 'Crossing'] is not present in the nonclass file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Crossing'] is not present in the nonclass file
+("'Freezing Rain'", True) values for ['Weather_Condition', 'Crossing'] is not present in the nonclass file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Crossing'] is not present in the nonclass file
+("'Light Snow and Sleet'", True) values for ['Weather_Condition', 'Crossing'] is not present in the nonclass file
+('Hail', True) values for ['Weather_Condition', 'Crossing'] is not present in the nonclass file
+("'Small Hail'", True) values for ['Weather_Condition', 'Junction'] is not present in the nonclass file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Junction'] is not present in the nonclass file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Junction'] is not present in the nonclass file
+('unknown', True) values for ['Weather_Condition', 'Junction'] is not present in the nonclass file
+('Thunderstorm', True) values for ['Weather_Condition', 'Junction'] is not present in the nonclass file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Junction'] is not present in the nonclass file
+("'Freezing Rain'", True) values for ['Weather_Condition', 'Junction'] is not present in the nonclass file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Junction'] is not present in the nonclass file
+('Hail', True) values for ['Weather_Condition', 'Junction'] is not present in the nonclass file
+("'Heavy Rain'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Small Hail'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+('Fog', True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Wintry Mix'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+('Sleet', True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Light Freezing Rain'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+('unknown', True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+('Clear', True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+('Rain', True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+('Thunderstorm', True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Scattered Clouds'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Freezing Rain'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+('Windy', True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+('Overcast', True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Light Snow and Sleet'", True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+('Hail', True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+('Thunder', True) values for ['Weather_Condition', 'Railway'] is not present in the nonclass file
+("'Heavy Rain'", True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+("'Small Hail'", True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+('Snow', True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+("'Wintry Mix'", True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+('Haze', True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+('Sleet', True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+('Thunderstorm', True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+("'Freezing Rain'", True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+("'Light Snow and Sleet'", True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+('Hail', True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+('Thunder', True) values for ['Weather_Condition', 'Station'] is not present in the nonclass file
+("'Small Hail'", True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+('Sleet', True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+("'Light Freezing Rain'", True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+('Thunderstorm', True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+("'Freezing Rain'", True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+("'Light Snow and Sleet'", True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+('Hail', True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+('Thunder', True) values for ['Weather_Condition', 'Stop'] is not present in the nonclass file
+("'Heavy Rain'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+("'Small Hail'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+('Snow', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+("'Wintry Mix'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+('Sleet', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+("'Light Freezing Rain'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+('unknown', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+('Rain', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+('Thunderstorm', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+("'Freezing Rain'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+("'Light Snow and Sleet'", True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+('Hail', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+('Thunder', True) values for ['Weather_Condition', 'Traffic_Calming'] is not present in the nonclass file
+("'Small Hail'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the nonclass file
+("'Light Freezing Fog'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the nonclass file
+("'Heavy Sleet'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the nonclass file
+('Sleet', True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the nonclass file
+("'Ice Pellets'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the nonclass file
+("'Freezing Rain'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the nonclass file
+("'Snow and Sleet'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the nonclass file
+("'Light Snow and Sleet'", True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the nonclass file
+('Hail', True) values for ['Weather_Condition', 'Traffic_Signal'] is not present in the nonclass file
+("'Small Hail'", 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the nonclass file
+("'Light Freezing Fog'", 'Day') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the nonclass file
+("'Heavy Sleet'", 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the nonclass file
+('Thunderstorm', 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the nonclass file
+("'Ice Pellets'", 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the nonclass file
+("'Freezing Rain'", 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the nonclass file
+("'Snow and Sleet'", 'Night') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the nonclass file
+("'Light Snow and Sleet'", 'Day') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the nonclass file
+('Hail', 'Day') values for ['Weather_Condition', 'Sunrise_Sunset'] is not present in the nonclass file
+(True, True) values for ['Junction', 'Railway'] is not present in the nonclass file
+(True, True) values for ['Junction', 'Station'] is not present in the nonclass file
+(True, True) values for ['Junction', 'Stop'] is not present in the nonclass file
+(True, True) values for ['Railway', 'Traffic_Calming'] is not present in the nonclass file
