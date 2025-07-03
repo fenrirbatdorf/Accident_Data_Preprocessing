@@ -1,0 +1,6 @@
+Type; Class; Variable1                ; Variable2                             ; Frequency; Frequency_Difference; 
+D   ;     1; (Weather_Condition,Clear); (Junction,True)                       ;     0.040;                5.680; 
+D   ;     1; (Street,Interstate)      ; (Weather_Condition,Overcast)          ;     0.032;                6.766; 
+D   ;     1; (Street,Beltway)         ; (Weather_Condition,Clear)             ;     0.025;                5.246; 
+D   ;     1; (Street,Interstate)      ; (Weather_Condition,'Scattered Clouds');     0.020;                7.951; 
+D   ;     1; (Street,Beltway)         ; (Weather_Condition,Overcast)          ;     0.020;                6.624; 

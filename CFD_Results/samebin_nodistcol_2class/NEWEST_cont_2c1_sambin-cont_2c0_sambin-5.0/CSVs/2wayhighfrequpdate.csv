@@ -1,0 +1,12 @@
+Type; Class; Variable1                         ; Variable2                             ; Variable3; Frequency; Frequency_Difference; 
+D   ;     1; (Weather_Condition,Clear)         ; (Junction,True)                       ;     0.040;     5.680; 
+D   ;     1; (Street,Interstate)               ; (Weather_Condition,Overcast)          ;     0.032;     6.766; 
+D   ;     1; (Street,Beltway)                  ; (Weather_Condition,Clear)             ;     0.025;     5.246; 
+D   ;     1; (Street,Interstate)               ; (Weather_Condition,'Scattered Clouds');     0.020;     7.951; 
+D   ;     1; (Street,Beltway)                  ; (Weather_Condition,Overcast)          ;     0.020;     6.624; 
+D   ;     1; (Street,Beltway)                  ; (Weather_Condition,'Scattered Clouds');     0.009;     5.857; 
+D   ;     1; (Temperature(F),'\'(76.9-inf)\'') ; (Weather_Condition,Overcast)          ;     0.006;     5.499; 
+D   ;     0; (Amenity,True)                    ; (Crossing,True)                       ;     0.003;     5.238; 
+D   ;     0; (Temperature(F),'\'(67.4-76.9]\''); (Amenity,True)                        ;     0.002;     5.092; 
+D   ;     0; (Weather_Condition,Fair)          ; (Railway,True)                        ;     0.002;    12.003; 
+D   ;     0; (Amenity,True)                    ; (Station,True)                        ;     0.002;     8.002; 
