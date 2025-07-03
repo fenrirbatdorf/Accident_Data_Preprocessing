@@ -1,3 +1,8 @@
+FOLDERS:
+- Control datasets bin: Versions of the basic preprocessed versions of the datasets, where binning was done
+    - Control 1 vs many bin: 1 vs many versions of the binned version of the datasets
+
+
 This folder holds all versions of the dataset used in this project beyond the base, non preprocessed version.
 
 DATASETS NAMING CONVENTION:
