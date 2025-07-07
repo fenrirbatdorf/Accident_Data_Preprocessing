@@ -1,0 +1,13 @@
+,Type,Class,Variable1,Variable2,Variable3,Frequency,Frequency_Difference
+2363,D,1,"(Temperature(F), '\'(67.4-76.9]\'')","(Wind_Direction, SE)","(Weather_Condition, Clear)",0.003,21.995
+2435,D,1,"(Street, Interstate)","(Wind_Direction, Variable)","(Weather_Condition, Clear)",0.001,20.162
+2436,D,1,"(Humidity(%), '\'(44.5-56.5]\'')","(Wind_Direction, W)","(Weather_Condition, Overcast)",0.001,20.162
+2443,D,0,"(Wind_Direction, SW)","(Weather_Condition, Cloudy)","(Crossing, True)",0.001,21.823
+2452,D,1,"(Pressure(in), '\'(30.065-inf)\'')","(Junction, True)","(Traffic_Signal, True)",0.001,18.329
+2459,D,1,"(Humidity(%), '\'(83.5-93.5]\'')","(Wind_Direction, SE)","(Weather_Condition, Clear)",0.001,17.413
+2469,D,0,"(Temperature(F), '\'(46.3-56.9]\'')","(Wind_Direction, SW)","(Crossing, True)",0.001,17.458
+2486,D,0,"(Temperature(F), '\'(36.95-46.3]\'')","(Pressure(in), '\'(29.835-30.065]\'')","(Station, True)",0.001,16.367
+2497,D,0,"(Wind_Direction, Calm)","(Weather_Condition, 'Mostly Cloudy')","(Station, True)",0.001,15.276
+2498,D,0,"(Street, large_local)","(Humidity(%), '\'(-inf-44.5]\'')","(Amenity, True)",0.001,15.276
+2499,D,0,"(Temperature(F), '\'(36.95-46.3]\'')","(Weather_Condition, Fair)","(Station, True)",0.001,15.276
+2500,D,0,"(Temperature(F), '\'(36.95-46.3]\'')","(Wind_Direction, Variable)","(Traffic_Signal, True)",0.001,15.276

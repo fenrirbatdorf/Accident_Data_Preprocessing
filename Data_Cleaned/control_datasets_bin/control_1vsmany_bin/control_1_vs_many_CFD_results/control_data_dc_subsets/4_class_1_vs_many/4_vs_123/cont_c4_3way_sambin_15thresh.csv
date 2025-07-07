@@ -1,0 +1,25 @@
+Type,Class,Variable1,Variable2,Variable3,Frequency,Frequency_Difference
+D,0,"(Street, Beltway)","(Weather_Condition, Clear)","(Sunrise_Sunset, Day)",0.008,15.216
+D,0,"(Street, Beltway)","(Humidity(%), '\'(-inf-43.5]\'')","(Weather_Condition, Clear)",0.003,17.103
+D,0,"(Street, Beltway)","(Wind_Direction, NW)","(Weather_Condition, 'Mostly Cloudy')",0.003,16.733
+D,1,"(Wind_Direction, SW)","(Weather_Condition, unknown)","(Sunrise_Sunset, Night)",0.001,40.637
+D,1,"(Temperature(F), '\'(36.95-46.1]\'')","(Wind_Direction, SW)","(Weather_Condition, unknown)",0.001,32.51
+D,1,"(Wind_Direction, S)","(Weather_Condition, unknown)","(Sunrise_Sunset, Night)",0.001,24.382
+D,1,"(Temperature(F), '\'(36.95-46.1]\'')","(Humidity(%), '\'(43.5-55.5]\'')","(Weather_Condition, unknown)",0.001,24.382
+D,1,"(Street, local)","(Humidity(%), '\'(82.5-93.5]\'')","(Weather_Condition, 'Light Freezing Rain')",0.001,24.382
+D,1,"(Humidity(%), '\'(55.5-68.5]\'')","(Weather_Condition, 'Mostly Cloudy')","(Railway, True)",0.0,16.255
+D,1,"(Pressure(in), '\'(29.815-30.055]\'')","(Wind_Direction, S)","(Weather_Condition, 'Light Freezing Rain')",0.0,16.255
+D,1,"(Temperature(F), '\'(-inf-36.95]\'')","(Wind_Direction, NE)","(Weather_Condition, unknown)",0.0,16.255
+D,1,"(Humidity(%), '\'(43.5-55.5]\'')","(Weather_Condition, Snow)","(Junction, True)",0.0,16.255
+D,1,"(Humidity(%), '\'(55.5-68.5]\'')","(Pressure(in), '\'(-inf-29.815]\'')","(Traffic_Calming, True)",0.0,16.255
+D,1,"(Pressure(in), '\'(-inf-29.815]\'')","(Wind_Direction, N)","(Traffic_Calming, True)",0.0,16.255
+D,1,"(Pressure(in), '\'(-inf-29.815]\'')","(Stop, True)","(Traffic_Calming, True)",0.0,16.255
+D,1,"(Wind_Direction, Calm)","(Weather_Condition, 'Heavy Rain')","(Traffic_Signal, True)",0.0,16.255
+D,1,"(Street, large_local)","(Weather_Condition, Rain)","(Stop, True)",0.0,16.255
+D,1,"(Humidity(%), '\'(-inf-43.5]\'')","(Wind_Direction, E)","(Amenity, True)",0.0,16.255
+D,1,"(Pressure(in), '\'(-inf-29.815]\'')","(Weather_Condition, unknown)","(Crossing, True)",0.0,16.255
+D,1,"(Street, Interstate)","(Wind_Direction, Variable)","(Traffic_Calming, True)",0.0,16.255
+D,1,"(Wind_Direction, SE)","(Stop, True)","(Traffic_Signal, True)",0.0,16.255
+D,1,"(Humidity(%), '\'(55.5-68.5]\'')","(Weather_Condition, Clear)","(Amenity, True)",0.0,16.255
+D,1,"(Street, local)","(Wind_Direction, N)","(Weather_Condition, unknown)",0.0,16.255
+D,1,"(Humidity(%), '\'(93.5-inf)\'')","(Wind_Direction, E)","(Weather_Condition, Clear)",0.0,16.255
